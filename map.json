@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Prisoner Count",
+    "width": 800,
+    "height": 600,
+    "projection": {"type": "equirectangular"},
+    "data": {
+        "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/ne_110m.json?token=APSIOH3N3DIROBY4CGM7IRDBJ3U7A",
+        "format": {"type": "topojson", "feature": "ne_110m"}
+    },
+    "transform": [
+        {
+            "lookup": "properties.name",
+            "from": {
+                "data": {
+                    "url": "https://github.com/Troydehn/Assignment2/blob/master/crime_and_incarceration_by_state.csv"
+                },
+                "key": "jurisdiction",
+                "fields": ["prisoner_count"]
+            }
+        }
+    ],
+    "mark": {"type": "geoshape"},
+    "encoding": {
+        "color": {
+            "field": "Prisoner Count",
+            "type": "quantitative",
+            "scale": {"type": "log"}
+        },
+        "tooltip": [
+            {"field": "properties.name", "type": "nominal", "title": "State"},
+            {"field": "Prisoner Count", "type": "quantitative"}
+        ]
+    }   
+}
