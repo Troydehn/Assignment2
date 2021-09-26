@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Prisoner Count",
+    "title": "Prisoner Count around America (2016)",
     "width": 800,
     "height": 600,
     "projection": {
@@ -33,7 +33,7 @@
         "color": {
             "field": "prisoner_count",
             "type": "quantitative",
-            "scale": {"scheme": "purples"}
+            "scale": {"scheme": "reds"}
         },
         "tooltip": [
             {"field": "properties.name", "type": "nominal", "title": "jurisdiction"},
