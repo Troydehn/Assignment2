@@ -19,7 +19,7 @@
             "lookup": "properties.name",
             "from": {
                 "data": {
-                    "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/crime_and_incarceration_by_state.csv"
+                    "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/crime_and_incarceration_by_state.csv"
                 },
                 "key": "jurisdiction",
                 "fields": ["prisoner_count"]

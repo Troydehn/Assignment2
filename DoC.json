@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/crime_and_incarceration_by_state.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/division_of_crimes.csv"},
     "mark": "bar",
     "encoding": {
       "x": {
@@ -9,24 +9,19 @@
         "type": "nominal"
       },
       "y": {
-        "aggregate": "sum",
         "field": "Value",
         "type": "quantitative"
       },
       "fillOpacity": {
-        "value": 0.3
+        "value": 1
       },
       "color": {
         "field": "Crime Type",
         "type": "nominal",
         "scale": {
-          "domain": ["murder_manslaughter", "rape_legacy", "rape_revised"],
+          "domain": ["vehicle_theft", "larceny", "burglary", "property_crime_total", "agg_assault", "robbery", "rape_revised", "rape_legacy", "murder_manslaughter"],
           "range": ["#e7ba52", "#c7c7c7", "#aec7e8"]
         }
-      },
-      "config": {
-        "view": {"stroke": "transparent"},
-        "axis": {"domainWidth": 1}
       }
 
       
