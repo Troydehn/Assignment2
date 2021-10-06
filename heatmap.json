@@ -1,0 +1,13 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/ne_110m_admin_1_states_provinces.json"},
+    "mark": "rect",
+    "encoding": {
+      "y": {"field": "Origin", "type": "nominal"},
+      "x": {"field": "jurisdiction", "type": "categorical"},
+      "color": {"aggregate": "mean", "field": "Horsepower"}
+    },
+    "config": {
+      "axis": {"grid": true, "tickBand": "extent"}
+    }
+  }
