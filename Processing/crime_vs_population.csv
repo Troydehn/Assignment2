@@ -1,0 +1,101 @@
+jurisdiction,Value Type,Value
+Alabama,state_population,4860545.0
+Alaska,state_population,741522.0
+Arizona,state_population,6908642.0
+Arkansas,state_population,2988231.0
+California,state_population,39296476.0
+Colorado,state_population,5530105.0
+Connecticut,state_population,3587685.0
+Delaware,state_population,952698.0
+Florida,state_population,20656589.0
+Georgia,state_population,10313620.0
+Hawaii,state_population,1428683.0
+Idaho,state_population,1680026.0
+Illinois,state_population,12835726.0
+Indiana,state_population,6634007.0
+Iowa,state_population,3130869.0
+Kansas,state_population,2907731.0
+Kentucky,state_population,4436113.0
+Louisiana,state_population,4686157.0
+Maine,state_population,1330232.0
+Maryland,state_population,6024752.0
+Massachusetts,state_population,6823721.0
+Michigan,state_population,9933445.0
+Minnesota,state_population,5525050.0
+Mississippi,state_population,2985415.0
+Missouri,state_population,6091176.0
+Montana,state_population,1038656.0
+Nebraska,state_population,1907603.0
+Nevada,state_population,2939254.0
+New Hampshire,state_population,1335015.0
+New Jersey,state_population,8978416.0
+New Mexico,state_population,2085432.0
+New York,state_population,19836286.0
+North Carolina,state_population,10156689.0
+North Dakota,state_population,755548.0
+Ohio,state_population,11622554.0
+Oklahoma,state_population,3921207.0
+Oregon,state_population,4085989.0
+Pennsylvania,state_population,12787085.0
+Rhode Island,state_population,1057566.0
+South Carolina,state_population,4959822.0
+South Dakota,state_population,861542.0
+Tennessee,state_population,6649404.0
+Texas,state_population,27904862.0
+Utah,state_population,3044321.0
+Vermont,state_population,623354.0
+Virginia,state_population,8414380.0
+Washington,state_population,7280934.0
+West Virginia,state_population,1828637.0
+Wisconsin,state_population,5772917.0
+Wyoming,state_population,584910.0
+Alabama,violent_crime_total,25878.0
+Alaska,violent_crime_total,5966.0
+Arizona,violent_crime_total,32542.0
+Arkansas,violent_crime_total,16563.0
+California,violent_crime_total,174796.0
+Colorado,violent_crime_total,19030.0
+Connecticut,violent_crime_total,8169.0
+Delaware,violent_crime_total,4859.0
+Florida,violent_crime_total,88700.0
+Georgia,violent_crime_total,40268.0
+Hawaii,violent_crime_total,3452.0
+Idaho,violent_crime_total,3876.0
+Illinois,violent_crime_total,56054.0
+Indiana,violent_crime_total,26516.0
+Iowa,violent_crime_total,9170.0
+Kansas,violent_crime_total,11665.0
+Kentucky,violent_crime_total,10452.0
+Louisiana,violent_crime_total,26477.0
+Maine,violent_crime_total,1649.0
+Maryland,violent_crime_total,29019.0
+Massachusetts,violent_crime_total,25975.0
+Michigan,violent_crime_total,45782.0
+Minnesota,violent_crime_total,13365.0
+Mississippi,violent_crime_total,8411.0
+Missouri,violent_crime_total,31720.0
+Montana,violent_crime_total,3886.0
+Nebraska,violent_crime_total,5661.0
+Nevada,violent_crime_total,19924.0
+New Hampshire,violent_crime_total,2668.0
+New Jersey,violent_crime_total,21861.0
+New Mexico,violent_crime_total,14585.0
+New York,violent_crime_total,74315.0
+North Carolina,violent_crime_total,37767.0
+North Dakota,violent_crime_total,1905.0
+Ohio,violent_crime_total,35759.0
+Oklahoma,violent_crime_total,17855.0
+Oregon,violent_crime_total,10983.0
+Pennsylvania,violent_crime_total,40389.0
+Rhode Island,violent_crime_total,2529.0
+South Carolina,violent_crime_total,25137.0
+South Dakota,violent_crime_total,3636.0
+Tennessee,violent_crime_total,42459.0
+Texas,violent_crime_total,121064.0
+Utah,violent_crime_total,7406.0
+Vermont,violent_crime_total,851.0
+Virginia,violent_crime_total,18495.0
+Washington,violent_crime_total,22101.0
+West Virginia,violent_crime_total,6633.0
+Wisconsin,violent_crime_total,17716.0
+Wyoming,violent_crime_total,1431.0
