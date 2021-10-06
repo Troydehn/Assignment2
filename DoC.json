@@ -1,0 +1,34 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/crime_and_incarceration_by_state.csv"},
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "field": "jurisdiction",
+        "title": "State",
+        "type": "nominal"
+      },
+      "y": {
+        "aggregate": "sum",
+        "field": "Value",
+        "type": "quantitative"
+      },
+      "fillOpacity": {
+        "value": 0.3
+      },
+      "color": {
+        "field": "Crime Type",
+        "type": "nominal",
+        "scale": {
+          "domain": ["murder_manslaughter", "rape_legacy", "rape_revised"],
+          "range": ["#e7ba52", "#c7c7c7", "#aec7e8"]
+        }
+      },
+      "config": {
+        "view": {"stroke": "transparent"},
+        "axis": {"domainWidth": 1}
+      }
+
+      
+    }
+  }
