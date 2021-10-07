@@ -1,0 +1,19 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A scatterplot showing body mass and flipper lengths of penguins.",
+    "data": {
+      "url": "data/penguins.json"
+    },
+    "mark": "circle",
+    "encoding": {
+      "x": {
+        "field": "prisoner_count",
+        "type": "quantitative"
+      },
+      "y": {
+        "field": "violent_crime_total",
+        "type": "quantitative"
+      },
+      "color": {"field": "jurisdiction", "type": "nominal"}
+    }
+  }
