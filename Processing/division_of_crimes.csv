@@ -1,451 +1,351 @@
 jurisdiction,Crime Type,Value
-Alabama,agg_assault,43487.0
-Alabama,burglary,117380.0
-Alabama,larceny,312256.0
-Alabama,murder_manslaughter,970.0
-Alabama,property_crime_total,460675.0
-Alabama,rape_legacy,4341.0
-Alabama,rape_revised,6099.0
-Alabama,robbery,13957.0
-Alabama,vehicle_theft,31039.0
-Alaska,agg_assault,10041.0
-Alaska,burglary,9578.0
-Alaska,larceny,47293.0
-Alaska,murder_manslaughter,134.0
-Alaska,property_crime_total,62351.0
-Alaska,rape_legacy,1862.0
-Alaska,rape_revised,2597.0
-Alaska,robbery,2013.0
-Alaska,vehicle_theft,5480.0
-Arizona,agg_assault,52596.0
-Arizona,burglary,129811.0
-Arizona,larceny,464492.0
-Arizona,murder_manslaughter,983.0
-Arizona,property_crime_total,645641.0
-Arizona,rape_legacy,7102.0
-Arizona,rape_revised,9660.0
-Arizona,robbery,19265.0
-Arizona,vehicle_theft,51338.0
-Arkansas,agg_assault,31377.0
-Arkansas,burglary,77799.0
-Arkansas,larceny,207481.0
-Arkansas,murder_manslaughter,504.0
-Arkansas,property_crime_total,302331.0
-Arkansas,rape_legacy,3617.0
-Arkansas,rape_revised,5184.0
-Arkansas,robbery,6409.0
-Arkansas,vehicle_theft,17051.0
-California,agg_assault,280181.0
-California,burglary,632132.0
-California,larceny,1870744.0
-California,murder_manslaughter,5306.0
-California,property_crime_total,2991013.0
-California,rape_legacy,25249.0
-California,rape_revised,34662.0
-California,robbery,155182.0
-California,vehicle_theft,488137.0
-Colorado,agg_assault,30910.0
-Colorado,burglary,72001.0
-Colorado,larceny,306521.0
-Colorado,murder_manslaughter,501.0
-Colorado,property_crime_total,419620.0
-Colorado,rape_legacy,6696.0
-Colorado,rape_revised,9259.0
-Colorado,robbery,9498.0
-Colorado,vehicle_theft,41098.0
-Connecticut,agg_assault,13464.0
-Connecticut,burglary,34942.0
-Connecticut,larceny,151779.0
-Connecticut,murder_manslaughter,294.0
-Connecticut,property_crime_total,205410.0
-Connecticut,rape_legacy,1800.0
-Connecticut,rape_revised,2446.0
-Connecticut,robbery,9602.0
-Connecticut,vehicle_theft,18689.0
-Delaware,agg_assault,8908.0
-Delaware,burglary,16840.0
-Delaware,larceny,61713.0
-Delaware,murder_manslaughter,158.0
-Delaware,property_crime_total,82356.0
-Delaware,rape_legacy,770.0
-Delaware,rape_revised,1126.0
-Delaware,robbery,3737.0
-Delaware,vehicle_theft,3803.0
-Florida,agg_assault,197844.0
-Florida,burglary,391403.0
-Florida,larceny,1347332.0
-Florida,murder_manslaughter,3162.0
-Florida,property_crime_total,1856886.0
-Florida,rape_legacy,16246.0
-Florida,rape_revised,22883.0
-Florida,robbery,69251.0
-Florida,vehicle_theft,118151.0
-Georgia,agg_assault,65970.0
-Georgia,burglary,226261.0
-Georgia,larceny,673091.0
-Georgia,murder_manslaughter,1758.0
-Georgia,property_crime_total,979847.0
-Georgia,rape_legacy,6477.0
-Georgia,rape_revised,9163.0
-Georgia,robbery,37368.0
-Georgia,vehicle_theft,80495.0
-Hawaii,agg_assault,6631.0
-Hawaii,burglary,22112.0
-Hawaii,larceny,106578.0
-Hawaii,murder_manslaughter,77.0
-Hawaii,property_crime_total,142909.0
-Hawaii,rape_legacy,1080.0
-Hawaii,rape_revised,1514.0
-Hawaii,robbery,3244.0
-Hawaii,vehicle_theft,14219.0
-Idaho,agg_assault,7821.0
-Idaho,burglary,19245.0
-Idaho,larceny,65089.0
-Idaho,murder_manslaughter,93.0
-Idaho,property_crime_total,89404.0
-Idaho,rape_legacy,1517.0
-Idaho,rape_revised,1977.0
-Idaho,robbery,616.0
-Idaho,vehicle_theft,5070.0
-Illinois,agg_assault,84560.0
-Illinois,burglary,155544.0
-Illinois,larceny,607619.0
-Illinois,murder_manslaughter,2151.0
-Illinois,property_crime_total,819162.0
-Illinois,rape_legacy,10525.0
-Illinois,rape_revised,14320.0
-Illinois,robbery,47942.0
-Illinois,vehicle_theft,55999.0
-Indiana,agg_assault,44366.0
-Indiana,burglary,114057.0
-Indiana,larceny,378474.0
-Indiana,murder_manslaughter,1060.0
-Indiana,property_crime_total,534095.0
-Indiana,rape_legacy,5027.0
-Indiana,rape_revised,6831.0
-Indiana,robbery,21122.0
-Indiana,vehicle_theft,41564.0
-Iowa,agg_assault,19257.0
-Iowa,burglary,45238.0
-Iowa,larceny,139003.0
-Iowa,murder_manslaughter,173.0
-Iowa,property_crime_total,196989.0
-Iowa,rape_legacy,2552.0
-Iowa,rape_revised,3417.0
-Iowa,robbery,3029.0
-Iowa,vehicle_theft,12748.0
-Kansas,agg_assault,22228.0
-Kansas,burglary,48666.0
-Kansas,larceny,175134.0
-Kansas,murder_manslaughter,336.0
-Kansas,property_crime_total,244334.0
-Kansas,rape_legacy,3329.0
-Kansas,rape_revised,4321.0
-Kansas,robbery,4519.0
-Kansas,vehicle_theft,20534.0
-Kentucky,agg_assault,13287.0
-Kentucky,burglary,71835.0
-Kentucky,larceny,207972.0
-Kentucky,murder_manslaughter,541.0
-Kentucky,property_crime_total,299976.0
-Kentucky,rape_legacy,2831.0
-Kentucky,rape_revised,4578.0
-Kentucky,robbery,9890.0
-Kentucky,vehicle_theft,20169.0
-Louisiana,agg_assault,50172.0
-Louisiana,burglary,115004.0
-Louisiana,larceny,339331.0
-Louisiana,murder_manslaughter,1452.0
-Louisiana,property_crime_total,483132.0
-Louisiana,rape_legacy,3500.0
-Louisiana,rape_revised,4861.0
-Louisiana,robbery,16784.0
-Louisiana,vehicle_theft,28797.0
-Maine,agg_assault,2718.0
-Maine,burglary,16194.0
-Maine,larceny,62484.0
-Maine,murder_manslaughter,68.0
-Maine,property_crime_total,81202.0
-Maine,rape_legacy,1080.0
-Maine,rape_revised,1454.0
-Maine,robbery,950.0
-Maine,vehicle_theft,2524.0
-Maryland,agg_assault,46674.0
-Maryland,burglary,85640.0
-Maryland,larceny,321515.0
-Maryland,murder_manslaughter,1265.0
-Maryland,property_crime_total,446825.0
-Maryland,rape_legacy,3507.0
-Maryland,rape_revised,4964.0
-Maryland,robbery,29455.0
-Maryland,vehicle_theft,39670.0
-Massachusetts,agg_assault,55240.0
-Massachusetts,burglary,77570.0
-Massachusetts,larceny,274392.0
-Massachusetts,murder_manslaughter,398.0
-Massachusetts,property_crime_total,377412.0
-Massachusetts,rape_legacy,4959.0
-Massachusetts,rape_revised,6558.0
-Massachusetts,robbery,18029.0
-Massachusetts,vehicle_theft,25450.0
-Michigan,agg_assault,81187.0
-Michigan,burglary,140481.0
-Michigan,larceny,418296.0
-Michigan,murder_manslaughter,1731.0
-Michigan,property_crime_total,619783.0
-Michigan,rape_legacy,12718.0
-Michigan,rape_revised,19508.0
-Michigan,robbery,25910.0
-Michigan,vehicle_theft,61006.0
-Minnesota,agg_assault,20731.0
-Minnesota,burglary,62785.0
-Minnesota,larceny,291455.0
-Minnesota,murder_manslaughter,335.0
-Minnesota,property_crime_total,378554.0
-Minnesota,rape_legacy,4591.0
-Minnesota,rape_revised,6336.0
-Minnesota,robbery,11132.0
-Minnesota,vehicle_theft,24314.0
-Mississippi,agg_assault,13739.0
-Mississippi,burglary,74120.0
-Mississippi,larceny,166531.0
-Mississippi,murder_manslaughter,734.0
-Mississippi,property_crime_total,253800.0
-Mississippi,rape_legacy,2352.0
-Mississippi,rape_revised,3285.0
-Mississippi,robbery,7137.0
-Mississippi,vehicle_theft,13149.0
-Missouri,agg_assault,57368.0
-Missouri,burglary,108061.0
-Missouri,larceny,381773.0
-Missouri,murder_manslaughter,1274.0
-Missouri,property_crime_total,539534.0
-Missouri,rape_legacy,5239.0
-Missouri,rape_revised,7237.0
-Missouri,robbery,17454.0
-Missouri,vehicle_theft,49700.0
-Montana,agg_assault,7567.0
-Montana,burglary,11555.0
-Montana,larceny,60710.0
-Montana,murder_manslaughter,96.0
-Montana,property_crime_total,78607.0
-Montana,rape_legacy,1243.0
-Montana,rape_revised,1555.0
-Montana,robbery,630.0
-Montana,vehicle_theft,6342.0
-Nebraska,agg_assault,9610.0
-Nebraska,burglary,23317.0
-Nebraska,larceny,102937.0
-Nebraska,murder_manslaughter,172.0
-Nebraska,property_crime_total,139171.0
-Nebraska,rape_legacy,1893.0
-Nebraska,rape_revised,2582.0
-Nebraska,robbery,3072.0
-Nebraska,vehicle_theft,12917.0
-Nevada,agg_assault,32589.0
-Nevada,burglary,67334.0
-Nevada,larceny,131984.0
-Nevada,murder_manslaughter,511.0
-Nevada,property_crime_total,230852.0
-Nevada,rape_legacy,3323.0
-Nevada,rape_revised,4527.0
-Nevada,robbery,17424.0
-Nevada,vehicle_theft,31534.0
-New Hampshire,agg_assault,4508.0
-New Hampshire,burglary,12608.0
-New Hampshire,larceny,63248.0
-New Hampshire,murder_manslaughter,47.0
-New Hampshire,property_crime_total,78548.0
-New Hampshire,rape_legacy,1441.0
-New Hampshire,rape_revised,1999.0
-New Hampshire,robbery,1652.0
-New Hampshire,vehicle_theft,2692.0
-New Jersey,agg_assault,34710.0
-New Jersey,burglary,95553.0
-New Jersey,larceny,335546.0
-New Jersey,murder_manslaughter,1116.0
-New Jersey,property_crime_total,468328.0
-New Jersey,rape_legacy,2833.0
-New Jersey,rape_revised,3836.0
-New Jersey,robbery,32311.0
-New Jersey,vehicle_theft,37229.0
-New Mexico,agg_assault,27674.0
-New Mexico,burglary,57418.0
-New Mexico,larceny,151711.0
-New Mexico,murder_manslaughter,341.0
-New Mexico,property_crime_total,229929.0
-New Mexico,rape_legacy,3421.0
-New Mexico,rape_revised,4712.0
-New Mexico,robbery,6403.0
-New Mexico,vehicle_theft,20800.0
-New York,agg_assault,91433.0
-New York,burglary,107225.0
-New York,larceny,559441.0
-New York,murder_manslaughter,1261.0
-New York,property_crime_total,697885.0
-New York,rape_legacy,6493.0
-New York,rape_revised,8981.0
-New York,robbery,51286.0
-New York,vehicle_theft,31219.0
-North Carolina,agg_assault,65572.0
-North Carolina,burglary,244396.0
-North Carolina,larceny,581644.0
-North Carolina,murder_manslaughter,1490.0
-North Carolina,property_crime_total,867511.0
-North Carolina,rape_legacy,5469.0
-North Carolina,rape_revised,7628.0
-North Carolina,robbery,26516.0
-North Carolina,vehicle_theft,41471.0
-North Dakota,agg_assault,4152.0
-North Dakota,burglary,8683.0
-North Dakota,larceny,33766.0
-North Dakota,murder_manslaughter,59.0
-North Dakota,property_crime_total,46981.0
-North Dakota,rape_legacy,840.0
-North Dakota,rape_revised,1058.0
-North Dakota,robbery,482.0
-North Dakota,vehicle_theft,4532.0
-Ohio,agg_assault,44836.0
-Ohio,burglary,239238.0
-Ohio,larceny,669460.0
-Ohio,murder_manslaughter,1442.0
-Ohio,property_crime_total,963467.0
-Ohio,rape_legacy,11845.0
-Ohio,rape_revised,14582.0
-Ohio,robbery,39790.0
-Ohio,vehicle_theft,54769.0
-Oklahoma,agg_assault,33814.0
-Oklahoma,burglary,91426.0
-Oklahoma,larceny,231537.0
-Oklahoma,murder_manslaughter,607.0
-Oklahoma,property_crime_total,355278.0
-Oklahoma,rape_legacy,4344.0
-Oklahoma,rape_revised,5940.0
-Oklahoma,robbery,9076.0
-Oklahoma,vehicle_theft,32315.0
-Oregon,agg_assault,17818.0
-Oregon,burglary,56374.0
-Oregon,larceny,271725.0
-Oregon,murder_manslaughter,262.0
-Oregon,property_crime_total,358107.0
-Oregon,rape_legacy,3216.0
-Oregon,rape_revised,4515.0
-Oregon,robbery,6633.0
-Oregon,vehicle_theft,30008.0
-Pennsylvania,agg_assault,68242.0
-Pennsylvania,burglary,137384.0
-Pennsylvania,larceny,565953.0
-Pennsylvania,murder_manslaughter,1883.0
-Pennsylvania,property_crime_total,742277.0
-Pennsylvania,rape_legacy,8637.0
-Pennsylvania,rape_revised,11927.0
-Pennsylvania,robbery,41276.0
-Pennsylvania,vehicle_theft,38940.0
-Rhode Island,agg_assault,4463.0
-Rhode Island,burglary,14391.0
-Rhode Island,larceny,48867.0
-Rhode Island,murder_manslaughter,85.0
-Rhode Island,property_crime_total,68719.0
-Rhode Island,rape_legacy,924.0
-Rhode Island,rape_revised,1269.0
-Rhode Island,robbery,1768.0
-Rhode Island,vehicle_theft,5461.0
-South Carolina,agg_assault,53509.0
-South Carolina,burglary,112202.0
-South Carolina,larceny,351048.0
-South Carolina,murder_manslaughter,1015.0
-South Carolina,property_crime_total,501723.0
-South Carolina,rape_legacy,4926.0
-South Carolina,rape_revised,6598.0
-South Carolina,robbery,11893.0
-South Carolina,vehicle_theft,38473.0
-South Dakota,agg_assault,6694.0
-South Dakota,burglary,9161.0
-South Dakota,larceny,36564.0
-South Dakota,murder_manslaughter,70.0
-South Dakota,property_crime_total,48856.0
-South Dakota,rape_legacy,1308.0
-South Dakota,rape_revised,1472.0
-South Dakota,robbery,572.0
-South Dakota,vehicle_theft,3131.0
-Tennessee,agg_assault,87420.0
-Tennessee,burglary,141223.0
-Tennessee,larceny,423328.0
-Tennessee,murder_manslaughter,1112.0
-Tennessee,property_crime_total,601926.0
-Tennessee,rape_legacy,5731.0
-Tennessee,rape_revised,7707.0
-Tennessee,robbery,22072.0
-Tennessee,vehicle_theft,37375.0
-Texas,agg_assault,198734.0
-Texas,burglary,513350.0
-Texas,larceny,1738794.0
-Texas,murder_manslaughter,3640.0
-Texas,property_crime_total,2453962.0
-Texas,rape_legacy,24771.0
-Texas,rape_revised,34099.0
-Texas,robbery,94925.0
-Texas,vehicle_theft,201818.0
-Utah,agg_assault,11383.0
-Utah,burglary,37713.0
-Utah,larceny,201113.0
-Utah,murder_manslaughter,172.0
-Utah,property_crime_total,262323.0
-Utah,rape_legacy,2969.0
-Utah,rape_revised,4621.0
-Utah,robbery,3885.0
-Utah,vehicle_theft,23497.0
-Vermont,agg_assault,1478.0
-Vermont,burglary,7354.0
-Vermont,larceny,24126.0
-Vermont,murder_manslaughter,30.0
-Vermont,property_crime_total,32239.0
-Vermont,rape_legacy,333.0
-Vermont,rape_revised,382.0
-Vermont,robbery,246.0
-Vermont,vehicle_theft,759.0
-Virginia,agg_assault,27746.0
-Virginia,burglary,71179.0
-Virginia,larceny,393167.0
-Virginia,murder_manslaughter,1041.0
-Virginia,property_crime_total,488748.0
-Virginia,rape_legacy,4401.0
-Virginia,rape_revised,7000.0
-Virginia,robbery,13307.0
-Virginia,vehicle_theft,24402.0
-Washington,agg_assault,35279.0
-Washington,burglary,164770.0
-Washington,larceny,518505.0
-Washington,murder_manslaughter,552.0
-Washington,property_crime_total,769214.0
-Washington,rape_legacy,6436.0
-Washington,rape_revised,8004.0
-Washington,robbery,16918.0
-Washington,vehicle_theft,85939.0
-West Virginia,agg_assault,13329.0
-West Virginia,burglary,28051.0
-West Virginia,larceny,80676.0
-West Virginia,murder_manslaughter,206.0
-West Virginia,property_crime_total,114828.0
-West Virginia,rape_legacy,1072.0
-West Virginia,rape_revised,1877.0
-West Virginia,robbery,2064.0
-West Virginia,vehicle_theft,6101.0
-Wisconsin,agg_assault,29489.0
-Wisconsin,burglary,65128.0
-Wisconsin,larceny,266434.0
-Wisconsin,murder_manslaughter,568.0
-Wisconsin,property_crime_total,359856.0
-Wisconsin,rape_legacy,3700.0
-Wisconsin,rape_revised,5290.0
-Wisconsin,robbery,15132.0
-Wisconsin,vehicle_theft,28294.0
-Wyoming,agg_assault,2870.0
-Wyoming,burglary,5407.0
-Wyoming,larceny,28257.0
-Wyoming,murder_manslaughter,49.0
-Wyoming,property_crime_total,35437.0
-Wyoming,rape_legacy,395.0
-Wyoming,rape_revised,551.0
-Wyoming,robbery,186.0
-Wyoming,vehicle_theft,1773.0
+Alabama,agg_assault,18869.0
+Alabama,burglary,34045.0
+Alabama,larceny,97498.0
+Alabama,murder_manslaughter,407.0
+Alabama,rape_revised,1915.0
+Alabama,robbery,4687.0
+Alabama,vehicle_theft,11716.0
+Alaska,agg_assault,4011.0
+Alaska,burglary,4053.0
+Alaska,larceny,17766.0
+Alaska,murder_manslaughter,52.0
+Alaska,rape_revised,1053.0
+Alaska,robbery,850.0
+Alaska,vehicle_theft,3057.0
+Arizona,agg_assault,21804.0
+Arizona,burglary,38216.0
+Arizona,larceny,150618.0
+Arizona,murder_manslaughter,389.0
+Arizona,rape_revised,3304.0
+Arizona,robbery,7045.0
+Arizona,vehicle_theft,18483.0
+Arkansas,agg_assault,12007.0
+Arkansas,burglary,23814.0
+Arkansas,larceny,67091.0
+Arkansas,murder_manslaughter,217.0
+Arkansas,rape_revised,2214.0
+Arkansas,robbery,2125.0
+Arkansas,vehicle_theft,7187.0
+California,agg_assault,104375.0
+California,burglary,188304.0
+California,larceny,637010.0
+California,murder_manslaughter,1930.0
+California,rape_revised,13702.0
+California,robbery,54789.0
+California,vehicle_theft,176756.0
+Colorado,agg_assault,11681.0
+Colorado,burglary,23825.0
+Colorado,larceny,108680.0
+Colorado,murder_manslaughter,189.0
+Colorado,rape_revised,3635.0
+Colorado,robbery,3525.0
+Colorado,vehicle_theft,19641.0
+Connecticut,agg_assault,4588.0
+Connecticut,burglary,10107.0
+Connecticut,larceny,47642.0
+Connecticut,murder_manslaughter,79.0
+Connecticut,rape_revised,791.0
+Connecticut,robbery,2711.0
+Connecticut,vehicle_theft,7126.0
+Delaware,agg_assault,3131.0
+Delaware,burglary,5028.0
+Delaware,larceny,19812.0
+Delaware,murder_manslaughter,58.0
+Delaware,rape_revised,311.0
+Delaware,robbery,1359.0
+Delaware,vehicle_theft,1530.0
+Florida,agg_assault,59816.0
+Florida,burglary,100325.0
+Florida,larceny,410352.0
+Florida,murder_manslaughter,1111.0
+Florida,rape_revised,7598.0
+Florida,robbery,20175.0
+Florida,vehicle_theft,43135.0
+Georgia,agg_assault,24091.0
+Georgia,burglary,62715.0
+Georgia,larceny,218127.0
+Georgia,murder_manslaughter,682.0
+Georgia,rape_revised,3381.0
+Georgia,robbery,12114.0
+Georgia,vehicle_theft,26463.0
+Hawaii,agg_assault,1831.0
+Hawaii,burglary,5983.0
+Hawaii,larceny,30871.0
+Hawaii,murder_manslaughter,35.0
+Hawaii,rape_revised,601.0
+Hawaii,robbery,985.0
+Hawaii,vehicle_theft,5499.0
+Idaho,agg_assault,2895.0
+Idaho,burglary,6318.0
+Idaho,larceny,20962.0
+Idaho,murder_manslaughter,49.0
+Idaho,rape_revised,719.0
+Idaho,robbery,213.0
+Idaho,vehicle_theft,2077.0
+Illinois,agg_assault,32161.0
+Illinois,burglary,48193.0
+Illinois,larceny,195196.0
+Illinois,murder_manslaughter,1061.0
+Illinois,rape_revised,5003.0
+Illinois,robbery,17829.0
+Illinois,vehicle_theft,19867.0
+Indiana,agg_assault,16345.0
+Indiana,burglary,33567.0
+Indiana,larceny,120454.0
+Indiana,murder_manslaughter,431.0
+Indiana,rape_revised,2449.0
+Indiana,robbery,7291.0
+Indiana,vehicle_theft,14439.0
+Iowa,agg_assault,6669.0
+Iowa,burglary,15306.0
+Iowa,larceny,45580.0
+Iowa,murder_manslaughter,73.0
+Iowa,rape_revised,1278.0
+Iowa,robbery,1150.0
+Iowa,vehicle_theft,5002.0
+Kansas,agg_assault,8158.0
+Kansas,burglary,14759.0
+Kansas,larceny,60119.0
+Kansas,murder_manslaughter,132.0
+Kansas,rape_revised,1618.0
+Kansas,robbery,1757.0
+Kansas,vehicle_theft,7415.0
+Kentucky,agg_assault,5068.0
+Kentucky,burglary,20932.0
+Kentucky,larceny,66833.0
+Kentucky,murder_manslaughter,265.0
+Kentucky,rape_revised,1748.0
+Kentucky,robbery,3371.0
+Kentucky,vehicle_theft,9948.0
+Louisiana,agg_assault,18528.0
+Louisiana,burglary,34689.0
+Louisiana,larceny,109492.0
+Louisiana,murder_manslaughter,555.0
+Louisiana,rape_revised,1819.0
+Louisiana,robbery,5575.0
+Louisiana,vehicle_theft,10330.0
+Maine,agg_assault,948.0
+Maine,burglary,4001.0
+Maine,larceny,17131.0
+Maine,murder_manslaughter,20.0
+Maine,rape_revised,413.0
+Maine,robbery,268.0
+Maine,vehicle_theft,776.0
+Maryland,agg_assault,15841.0
+Maryland,burglary,24832.0
+Maryland,larceny,100995.0
+Maryland,murder_manslaughter,536.0
+Maryland,rape_revised,1827.0
+Maryland,robbery,10815.0
+Maryland,vehicle_theft,13889.0
+Massachusetts,agg_assault,18334.0
+Massachusetts,burglary,19204.0
+Massachusetts,larceny,79155.0
+Massachusetts,murder_manslaughter,135.0
+Massachusetts,rape_revised,2141.0
+Massachusetts,robbery,5365.0
+Massachusetts,vehicle_theft,8071.0
+Michigan,agg_assault,30779.0
+Michigan,burglary,39738.0
+Michigan,larceny,130249.0
+Michigan,murder_manslaughter,612.0
+Michigan,rape_revised,7268.0
+Michigan,robbery,7123.0
+Michigan,vehicle_theft,20262.0
+Minnesota,agg_assault,7185.0
+Minnesota,burglary,18582.0
+Minnesota,larceny,90421.0
+Minnesota,murder_manslaughter,101.0
+Minnesota,rape_revised,2349.0
+Minnesota,robbery,3730.0
+Minnesota,vehicle_theft,8720.0
+Mississippi,agg_assault,4459.0
+Mississippi,burglary,23489.0
+Mississippi,larceny,54725.0
+Mississippi,murder_manslaughter,237.0
+Mississippi,rape_revised,1282.0
+Mississippi,robbery,2433.0
+Mississippi,vehicle_theft,4307.0
+Missouri,agg_assault,22049.0
+Missouri,burglary,31716.0
+Missouri,larceny,120649.0
+Missouri,murder_manslaughter,538.0
+Missouri,rape_revised,2557.0
+Missouri,robbery,6576.0
+Missouri,vehicle_theft,18296.0
+Montana,agg_assault,2983.0
+Montana,burglary,3966.0
+Montana,larceny,21427.0
+Montana,murder_manslaughter,37.0
+Montana,rape_revised,598.0
+Montana,robbery,268.0
+Montana,vehicle_theft,2763.0
+Nebraska,agg_assault,3558.0
+Nebraska,burglary,6459.0
+Nebraska,larceny,32009.0
+Nebraska,murder_manslaughter,49.0
+Nebraska,rape_revised,1108.0
+Nebraska,robbery,946.0
+Nebraska,vehicle_theft,4729.0
+Nevada,agg_assault,11629.0
+Nevada,burglary,18816.0
+Nevada,larceny,43949.0
+Nevada,murder_manslaughter,228.0
+Nevada,rape_revised,1729.0
+Nevada,robbery,6338.0
+Nevada,vehicle_theft,13157.0
+New Hampshire,agg_assault,1609.0
+New Hampshire,burglary,2989.0
+New Hampshire,larceny,16454.0
+New Hampshire,murder_manslaughter,19.0
+New Hampshire,rape_revised,609.0
+New Hampshire,robbery,431.0
+New Hampshire,vehicle_theft,880.0
+New Jersey,agg_assault,11089.0
+New Jersey,burglary,25229.0
+New Jersey,larceny,101459.0
+New Jersey,murder_manslaughter,378.0
+New Jersey,rape_revised,1454.0
+New Jersey,robbery,8940.0
+New Jersey,vehicle_theft,11324.0
+New Mexico,agg_assault,10182.0
+New Mexico,burglary,17280.0
+New Mexico,larceny,52907.0
+New Mexico,murder_manslaughter,139.0
+New Mexico,rape_revised,1527.0
+New Mexico,robbery,2737.0
+New Mexico,vehicle_theft,11743.0
+New York,agg_assault,45095.0
+New York,burglary,39850.0
+New York,larceny,250990.0
+New York,murder_manslaughter,629.0
+New York,rape_revised,6281.0
+New York,robbery,22310.0
+New York,vehicle_theft,14384.0
+North Carolina,agg_assault,24906.0
+North Carolina,burglary,72082.0
+North Carolina,larceny,190377.0
+North Carolina,murder_manslaughter,678.0
+North Carolina,rape_revised,2847.0
+North Carolina,robbery,9336.0
+North Carolina,vehicle_theft,15306.0
+North Dakota,agg_assault,1352.0
+North Dakota,burglary,3248.0
+North Dakota,larceny,12249.0
+North Dakota,murder_manslaughter,16.0
+North Dakota,rape_revised,356.0
+North Dakota,robbery,181.0
+North Dakota,vehicle_theft,1954.0
+Ohio,agg_assault,16748.0
+Ohio,burglary,67081.0
+Ohio,larceny,214102.0
+Ohio,murder_manslaughter,683.0
+Ohio,rape_revised,5754.0
+Ohio,robbery,12574.0
+Ohio,vehicle_theft,19762.0
+Oklahoma,agg_assault,12334.0
+Oklahoma,burglary,29376.0
+Oklahoma,larceny,76358.0
+Oklahoma,murder_manslaughter,247.0
+Oklahoma,rape_revised,2100.0
+Oklahoma,robbery,3174.0
+Oklahoma,vehicle_theft,12276.0
+Oregon,agg_assault,6776.0
+Oregon,burglary,16919.0
+Oregon,larceny,91507.0
+Oregon,murder_manslaughter,116.0
+Oregon,rape_revised,1784.0
+Oregon,robbery,2307.0
+Oregon,vehicle_theft,13290.0
+Pennsylvania,agg_assault,22942.0
+Pennsylvania,burglary,35178.0
+Pennsylvania,larceny,174147.0
+Pennsylvania,murder_manslaughter,674.0
+Pennsylvania,rape_revised,4459.0
+Pennsylvania,robbery,12314.0
+Pennsylvania,vehicle_theft,13069.0
+Rhode Island,agg_assault,1514.0
+Rhode Island,burglary,3650.0
+Rhode Island,larceny,14157.0
+Rhode Island,murder_manslaughter,29.0
+Rhode Island,rape_revised,445.0
+Rhode Island,robbery,541.0
+Rhode Island,vehicle_theft,1103.0
+South Carolina,agg_assault,18217.0
+South Carolina,burglary,33149.0
+South Carolina,larceny,114455.0
+South Carolina,murder_manslaughter,358.0
+South Carolina,rape_revised,2491.0
+South Carolina,robbery,4071.0
+South Carolina,vehicle_theft,13930.0
+South Dakota,agg_assault,2808.0
+South Dakota,burglary,3002.0
+South Dakota,larceny,12705.0
+South Dakota,murder_manslaughter,28.0
+South Dakota,rape_revised,526.0
+South Dakota,robbery,274.0
+South Dakota,vehicle_theft,1500.0
+Tennessee,agg_assault,31332.0
+Tennessee,burglary,40607.0
+Tennessee,larceny,135353.0
+Tennessee,murder_manslaughter,495.0
+Tennessee,rape_revised,2803.0
+Tennessee,robbery,7829.0
+Tennessee,vehicle_theft,15239.0
+Texas,agg_assault,72842.0
+Texas,burglary,148796.0
+Texas,larceny,552106.0
+Texas,murder_manslaughter,1478.0
+Texas,rape_revised,13446.0
+Texas,robbery,33298.0
+Texas,vehicle_theft,68990.0
+Utah,agg_assault,4244.0
+Utah,burglary,12938.0
+Utah,larceny,68261.0
+Utah,murder_manslaughter,74.0
+Utah,rape_revised,1560.0
+Utah,robbery,1528.0
+Utah,vehicle_theft,9362.0
+Vermont,agg_assault,589.0
+Vermont,burglary,1884.0
+Vermont,larceny,7637.0
+Vermont,murder_manslaughter,14.0
+Vermont,rape_revised,170.0
+Vermont,robbery,78.0
+Vermont,vehicle_theft,184.0
+Virginia,agg_assault,10357.0
+Virginia,burglary,20159.0
+Virginia,larceny,127285.0
+Virginia,murder_manslaughter,482.0
+Virginia,rape_revised,2830.0
+Virginia,robbery,4826.0
+Virginia,vehicle_theft,9848.0
+Washington,agg_assault,13124.0
+Washington,burglary,49249.0
+Washington,larceny,173423.0
+Washington,murder_manslaughter,195.0
+Washington,rape_revised,3133.0
+Washington,robbery,5649.0
+Washington,vehicle_theft,32322.0
+West Virginia,agg_assault,5144.0
+West Virginia,burglary,9127.0
+West Virginia,larceny,25657.0
+West Virginia,murder_manslaughter,85.0
+West Virginia,rape_revised,684.0
+West Virginia,robbery,720.0
+West Virginia,vehicle_theft,2498.0
+Wisconsin,agg_assault,10772.0
+Wisconsin,burglary,19498.0
+Wisconsin,larceny,82455.0
+Wisconsin,murder_manslaughter,232.0
+Wisconsin,rape_revised,2005.0
+Wisconsin,robbery,4707.0
+Wisconsin,vehicle_theft,9958.0
+Wyoming,agg_assault,1146.0
+Wyoming,burglary,1771.0
+Wyoming,larceny,8889.0
+Wyoming,murder_manslaughter,20.0
+Wyoming,rape_revised,206.0
+Wyoming,robbery,59.0
+Wyoming,vehicle_theft,800.0

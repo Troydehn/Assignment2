@@ -1,13 +1,28 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/ne_110m_admin_1_states_provinces.json"},
-    "mark": "rect",
-    "encoding": {
-      "y": {"field": "Origin", "type": "nominal"},
-      "x": {"field": "jurisdiction", "type": "categorical"},
-      "color": {"aggregate": "mean", "field": "Horsepower"}
-    },
-    "config": {
-      "axis": {"grid": true, "tickBand": "extent"}
-    }
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+      "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/division_of_crimes.csv"
+  },
+  "height": 350,
+  "width": 320,
+  "mark": "rect",
+  "encoding": {
+      "y": {
+          "field": "Crime Type",
+          "title": "Crime Type"
+      },
+      "x": {
+          "field": "jurisdiction",
+          "title": "State"
+      },
+      "color": {
+          "field": "Value",
+          "type": "quantitative",
+          "scale":{"scheme": "purples"},
+          "legend": {
+              "title": "Value"
+          }
+          
+      }
   }
+}

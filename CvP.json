@@ -1,22 +1,18 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "A bar chart showing the US population distribution of age groups and gender in 2000.",
-  "data": {"url": "data/population.json"},
-  "transform": [
-    {"filter": "datum.year == 2000"},
-    {"calculate": "datum.sex == 2 ? 'Female' : 'Male'", "as": "gender"}
-  ],
+  "data": {"url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/crime_vs_population.csv"},
   "width": {"step": 17},
   "mark": "bar",
   "encoding": {
-    "x": {"field": "age", "type": "ordinal"},
+    "x": {"field": "jurisdiction", "type": "nominal"},
     "y": {
       "aggregate": "sum",
-      "field": "people",
-      "title": "population",
-      "stack": null
+      "field": "Value",
+      "title": "Value",
+      "stack": true
     },
-    "color": {"field": "gender", "scale": {"range": ["#675193", "#ca8861"]}},
+    "color": {"field": "Value Type", "scale": {"range": ["#675193", "#ca8861"]}},
     "opacity": {"value": 0.7}
   }
 }
