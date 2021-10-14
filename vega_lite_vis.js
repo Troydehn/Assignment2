@@ -2,6 +2,7 @@ var vg_1 = "map.json";
 var vg_2 = "DoC.json";
 var vg_3 = "CvP.json";
 var vg_4 = "heatmap.json";
+var vg_5 = "scatterplot.json";
 
 vegaEmbed("#map", vg_1).then(function(result) {
  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -16,5 +17,9 @@ vegaEmbed("#CvP", vg_3).then(function(result) {
 }).catch(console.error);
 
 vegaEmbed("#heatmap", vg_4).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+
+vegaEmbed("#scatterplot", vg_5).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
