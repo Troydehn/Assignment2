@@ -19,10 +19,10 @@
             "lookup": "properties.name",
             "from": {
                 "data": {
-                    "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/conviction_rate_per1000.csv"
+                    "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/conviction_rate_per10000.csv"
                 },
                 "key": "jurisdiction",
-                "fields": ["prisoner_count"]
+                "fields": ["conviction_rate_10000"]
             }
         }
     ],
@@ -31,13 +31,14 @@
     },
     "encoding": {
         "color": {
-            "field": "prisoner_count",
+            "field": "conviction_rate_10000",
             "type": "quantitative",
-            "scale": {"scheme": "reds"}
+            "scale": {"scheme": "darkred",
+                      "reverse": true}
         },
         "tooltip": [
             {"field": "properties.name", "type": "nominal", "title": "jurisdiction"},
-            {"field": "prisoner_count", "type": "quantitative"}
+            {"field": "conviction_rate_10000", "type": "quantitative"}
         ]
     }   
 }
