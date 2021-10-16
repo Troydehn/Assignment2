@@ -10,13 +10,13 @@
     "mark": "circle",
     "encoding": {
       "x": {
-        "field": "prisoner_count",
+        "field": "Prisoners",
         "type": "quantitative"
       },
       "y": {
-        "field": "violent_crime_total",
+        "field": "Violent Crime Total",
         "type": "quantitative"
       },
-      "color": {"field": "jurisdiction", "type": "nominal"}
+      "color": {"field": "State", "type": "nominal"}
     }
   }

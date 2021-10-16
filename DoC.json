@@ -7,7 +7,7 @@
     "height": 350,
     "encoding": {
       "x": {
-        "field": "jurisdiction",
+        "field": "State",
         "title": "State",
         "type": "nominal",
         "sort": "-y"
@@ -23,7 +23,7 @@
         "field": "Crime Type",
         "type": "nominal",
         "scale": {
-          "domain": ["agg_assault", "robbery", "rape_revised",  "murder_manslaughter"],
+          "domain": ["Aggravated Assault", "Robbery", "Rape",  "Murder Manslaughter"],
           "range": ["darkblue", "purple", "orange", "darkred"]
         }
       }

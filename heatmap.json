@@ -8,12 +8,10 @@
   "mark": "rect",
   "encoding": {
       "y": {
-          "field": "Crime Type",
-          "title": "Crime Type"
+          "field": "Crime Type"
       },
       "x": {
-          "field": "jurisdiction",
-          "title": "State"
+          "field": "State"
       },
       "color": {
           "field": "Value",
