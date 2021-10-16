@@ -1,33 +1,17 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {"url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/crime_vs_population.csv"},
-  "title": "Crime Vs Population",
-  "width": 500,
-  "height": 350,
-  "mark": "bar",
-  "encoding": {
-    "x": {"field": "jurisdiction", "type": "nominal"},
-    "y": {
-      "aggregate": "sum",
-      "field": "Value",
-      "title": "Value",
-      "stack": true
-    },
-    "color": {"field": "Value Type", "scale": {"range": ["#675193", "#ca8861"]}},
-    "opacity": {"value": 0.7}
-  }
-}
-
-{
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
+  "width": 520,
   "height": 350,
   "data": {
     "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/crime_vs_population.csv"
   },
   "mark": "bar",
   "encoding": {
-    "x": {"field": "jurisdiction", "type": "nominal"},
+    "x": {
+      "field": "jurisdiction", 
+      "type": "nominal",
+      "sort": "-y"
+    },
     "y": {"field": "violent_crime_total", "type": "quantitative"}
   }
 }

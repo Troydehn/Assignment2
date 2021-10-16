@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Prisoner Count around America (2016)",
-    "width": 500,
+    "width": 550,
     "height": 350,
     "projection": {
         "type": "equirectangular"

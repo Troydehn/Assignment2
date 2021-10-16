@@ -9,7 +9,8 @@
       "x": {
         "field": "jurisdiction",
         "title": "State",
-        "type": "nominal"
+        "type": "nominal",
+        "sort": "-y"
       },
       "y": {
         "field": "Value",
