@@ -2,6 +2,8 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/division_of_crimes.csv"},
     "mark": "bar",
+    "width": 400,
+    "height": 125,
     "encoding": {
       "x": {
         "field": "jurisdiction",
