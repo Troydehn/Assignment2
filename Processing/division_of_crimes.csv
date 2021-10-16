@@ -1,746 +1,746 @@
 jurisdiction,Crime Type,Value
-Alabama,murder_manslaughter,346.0
-Alaska,murder_manslaughter,34.0
-Arizona,murder_manslaughter,355.0
-Arkansas,murder_manslaughter,158.0
-California,murder_manslaughter,1746.0
-Colorado,murder_manslaughter,174.0
-Connecticut,murder_manslaughter,91.0
-Delaware,murder_manslaughter,41.0
-Florida,murder_manslaughter,972.0
-Georgia,murder_manslaughter,563.0
-Hawaii,murder_manslaughter,32.0
-Idaho,murder_manslaughter,29.0
-Illinois,murder_manslaughter,722.0
-Indiana,murder_manslaughter,357.0
-Iowa,murder_manslaughter,41.0
-Kansas,murder_manslaughter,117.0
-Kentucky,murder_manslaughter,172.0
-Louisiana,murder_manslaughter,494.0
-Maine,murder_manslaughter,24.0
-Maryland,murder_manslaughter,384.0
-Massachusetts,murder_manslaughter,138.0
-Michigan,murder_manslaughter,625.0
-Minnesota,murder_manslaughter,114.0
-Mississippi,murder_manslaughter,217.0
-Missouri,murder_manslaughter,369.0
-Montana,murder_manslaughter,23.0
-Nebraska,murder_manslaughter,56.0
-Nevada,murder_manslaughter,163.0
-New Hampshire,murder_manslaughter,21.0
-New Jersey,murder_manslaughter,404.0
-New Mexico,murder_manslaughter,123.0
-New York,murder_manslaughter,644.0
-North Carolina,murder_manslaughter,463.0
-North Dakota,murder_manslaughter,16.0
-Ohio,murder_manslaughter,478.0
-Oklahoma,murder_manslaughter,198.0
-Oregon,murder_manslaughter,82.0
-Pennsylvania,murder_manslaughter,611.0
-Rhode Island,murder_manslaughter,31.0
-South Carolina,murder_manslaughter,305.0
-South Dakota,murder_manslaughter,18.0
-Tennessee,murder_manslaughter,335.0
-Texas,murder_manslaughter,1140.0
-Utah,murder_manslaughter,51.0
-Vermont,murder_manslaughter,10.0
-Virginia,murder_manslaughter,320.0
-Washington,murder_manslaughter,167.0
-West Virginia,murder_manslaughter,62.0
-Wisconsin,murder_manslaughter,163.0
-Wyoming,murder_manslaughter,17.0
-Alabama,murder_manslaughter,276.0
-Alaska,murder_manslaughter,41.0
-Arizona,murder_manslaughter,319.0
-Arkansas,murder_manslaughter,165.0
-California,murder_manslaughter,1699.0
-Colorado,murder_manslaughter,151.0
-Connecticut,murder_manslaughter,86.0
-Delaware,murder_manslaughter,54.0
-Florida,murder_manslaughter,1149.0
-Georgia,murder_manslaughter,580.0
-Hawaii,murder_manslaughter,26.0
-Idaho,murder_manslaughter,32.0
-Illinois,murder_manslaughter,685.0
-Indiana,murder_manslaughter,330.0
-Iowa,murder_manslaughter,60.0
-Kansas,murder_manslaughter,91.0
-Kentucky,murder_manslaughter,160.0
-Louisiana,murder_manslaughter,477.0
-Maine,murder_manslaughter,21.0
-Maryland,murder_manslaughter,365.0
-Massachusetts,murder_manslaughter,132.0
-Michigan,murder_manslaughter,535.0
-Minnesota,murder_manslaughter,88.0
-Mississippi,murder_manslaughter,258.0
-Missouri,murder_manslaughter,403.0
-Montana,murder_manslaughter,37.0
-Nebraska,murder_manslaughter,54.0
-Nevada,murder_manslaughter,170.0
-New Hampshire,murder_manslaughter,12.0
-New Jersey,murder_manslaughter,349.0
-New Mexico,murder_manslaughter,101.0
-New York,murder_manslaughter,617.0
-North Carolina,murder_manslaughter,510.0
-North Dakota,murder_manslaughter,22.0
-Ohio,murder_manslaughter,464.0
-Oklahoma,murder_manslaughter,175.0
-Oregon,murder_manslaughter,81.0
-Pennsylvania,murder_manslaughter,614.0
-Rhode Island,murder_manslaughter,25.0
-South Carolina,murder_manslaughter,311.0
-South Dakota,murder_manslaughter,20.0
-Tennessee,murder_manslaughter,371.0
-Texas,murder_manslaughter,1184.0
-Utah,murder_manslaughter,67.0
-Vermont,murder_manslaughter,10.0
-Virginia,murder_manslaughter,338.0
-Washington,murder_manslaughter,174.0
-West Virginia,murder_manslaughter,74.0
-Wisconsin,murder_manslaughter,165.0
-Wyoming,murder_manslaughter,16.0
-Alabama,murder_manslaughter,348.0
-Alaska,murder_manslaughter,59.0
-Arizona,murder_manslaughter,309.0
-Arkansas,murder_manslaughter,181.0
-California,murder_manslaughter,1861.0
-Colorado,murder_manslaughter,176.0
-Connecticut,murder_manslaughter,117.0
-Delaware,murder_manslaughter,63.0
-Florida,murder_manslaughter,1041.0
-Georgia,murder_manslaughter,615.0
-Hawaii,murder_manslaughter,19.0
-Idaho,murder_manslaughter,32.0
-Illinois,murder_manslaughter,744.0
-Indiana,murder_manslaughter,373.0
-Iowa,murder_manslaughter,72.0
-Kansas,murder_manslaughter,128.0
-Kentucky,murder_manslaughter,209.0
-Louisiana,murder_manslaughter,481.0
-Maine,murder_manslaughter,23.0
-Maryland,murder_manslaughter,516.0
-Massachusetts,murder_manslaughter,128.0
-Michigan,murder_manslaughter,571.0
-Minnesota,murder_manslaughter,133.0
-Mississippi,murder_manslaughter,259.0
-Missouri,murder_manslaughter,502.0
-Montana,murder_manslaughter,36.0
-Nebraska,murder_manslaughter,62.0
-Nevada,murder_manslaughter,178.0
-New Hampshire,murder_manslaughter,14.0
-New Jersey,murder_manslaughter,363.0
-New Mexico,murder_manslaughter,117.0
-North Carolina,murder_manslaughter,517.0
-North Dakota,murder_manslaughter,21.0
-Ohio,murder_manslaughter,500.0
-Oklahoma,murder_manslaughter,234.0
-Oregon,murder_manslaughter,99.0
-Pennsylvania,murder_manslaughter,658.0
-Rhode Island,murder_manslaughter,29.0
-South Carolina,murder_manslaughter,399.0
-South Dakota,murder_manslaughter,32.0
-Tennessee,murder_manslaughter,406.0
-Texas,murder_manslaughter,1316.0
-Utah,murder_manslaughter,54.0
-Vermont,murder_manslaughter,10.0
-Virginia,murder_manslaughter,383.0
-Washington,murder_manslaughter,211.0
-West Virginia,murder_manslaughter,70.0
-Wisconsin,murder_manslaughter,240.0
-Wyoming,murder_manslaughter,16.0
-Alabama,rape_legacy,1449.0
-Alaska,rape_legacy,657.0
-Arizona,rape_legacy,2344.0
-Arkansas,rape_legacy,1135.0
-California,rape_legacy,7464.0
-Colorado,rape_legacy,2198.0
-Connecticut,rape_legacy,647.0
-Delaware,rape_legacy,278.0
-Florida,rape_legacy,4765.0
-Georgia,rape_legacy,2022.0
-Hawaii,rape_legacy,366.0
-Idaho,rape_legacy,516.0
-Illinois,rape_legacy,3895.0
-Indiana,rape_legacy,1623.0
-Iowa,rape_legacy,873.0
-Kansas,rape_legacy,1003.0
-Kentucky,rape_legacy,951.0
-Louisiana,rape_legacy,1248.0
-Maine,rape_legacy,366.0
-Maryland,rape_legacy,1179.0
-Massachusetts,rape_legacy,1722.0
-Michigan,rape_legacy,4506.0
-Minnesota,rape_legacy,1453.0
-Mississippi,rape_legacy,726.0
-Missouri,rape_legacy,1679.0
-Montana,rape_legacy,382.0
-Nebraska,rape_legacy,621.0
-Nevada,rape_legacy,1090.0
-New Hampshire,rape_legacy,522.0
-New Jersey,rape_legacy,861.0
-New Mexico,rape_legacy,1135.0
-New York,rape_legacy,2575.0
-North Carolina,rape_legacy,1790.0
-North Dakota,rape_legacy,288.0
-Ohio,rape_legacy,3594.0
-Oklahoma,rape_legacy,1715.0
-Oregon,rape_legacy,1000.0
-Pennsylvania,rape_legacy,2728.0
-Rhode Island,rape_legacy,333.0
-South Carolina,rape_legacy,1739.0
-South Dakota,rape_legacy,454.0
-Tennessee,rape_legacy,1904.0
-Texas,rape_legacy,7610.0
-Utah,rape_legacy,926.0
-Vermont,rape_legacy,113.0
-Virginia,rape_legacy,1476.0
-Washington,rape_legacy,2072.0
-West Virginia,rape_legacy,367.0
-Wisconsin,rape_legacy,1308.0
-Wyoming,rape_legacy,144.0
-Alabama,rape_legacy,1436.0
-Alaska,rape_legacy,555.0
-Arizona,rape_legacy,2464.0
-Arkansas,rape_legacy,1182.0
-California,rape_legacy,8398.0
-Colorado,rape_legacy,2121.0
-Connecticut,rape_legacy,571.0
-Delaware,rape_legacy,249.0
-Florida,rape_legacy,6051.0
-Georgia,rape_legacy,2159.0
-Hawaii,rape_legacy,314.0
-Idaho,rape_legacy,468.0
-Illinois,rape_legacy,3081.0
-Indiana,rape_legacy,1615.0
-Iowa,rape_legacy,828.0
-Kansas,rape_legacy,1075.0
-Kentucky,rape_legacy,883.0
-Louisiana,rape_legacy,992.0
-Maine,rape_legacy,360.0
-Maryland,rape_legacy,1144.0
-Massachusetts,rape_legacy,1629.0
-Michigan,rape_legacy,4049.0
-Minnesota,rape_legacy,1452.0
-Mississippi,rape_legacy,764.0
-Missouri,rape_legacy,1706.0
-Montana,rape_legacy,430.0
-Nebraska,rape_legacy,620.0
-Nevada,rape_legacy,995.0
-New Hampshire,rape_legacy,458.0
-New Jersey,rape_legacy,953.0
-New Mexico,rape_legacy,1071.0
-New York,rape_legacy,3918.0
-North Carolina,rape_legacy,1740.0
-North Dakota,rape_legacy,276.0
-Ohio,rape_legacy,4097.0
-Oklahoma,rape_legacy,1277.0
-Oregon,rape_legacy,1052.0
-Pennsylvania,rape_legacy,2787.0
-Rhode Island,rape_legacy,253.0
-South Carolina,rape_legacy,1480.0
-South Dakota,rape_legacy,413.0
-Tennessee,rape_legacy,1861.0
-Texas,rape_legacy,8236.0
-Utah,rape_legacy,945.0
-Vermont,rape_legacy,99.0
-Virginia,rape_legacy,1432.0
-Washington,rape_legacy,2171.0
-West Virginia,rape_legacy,285.0
-Wisconsin,rape_legacy,1168.0
-Wyoming,rape_legacy,126.0
-Alabama,rape_legacy,1456.0
-Alaska,rape_legacy,650.0
-Arizona,rape_legacy,2294.0
-Arkansas,rape_legacy,1300.0
-California,rape_legacy,9387.0
-Colorado,rape_legacy,2377.0
-Connecticut,rape_legacy,582.0
-Delaware,rape_legacy,243.0
-Florida,rape_legacy,5430.0
-Georgia,rape_legacy,2296.0
-Hawaii,rape_legacy,400.0
-Idaho,rape_legacy,533.0
-Illinois,rape_legacy,3549.0
-Indiana,rape_legacy,1789.0
-Iowa,rape_legacy,851.0
-Kansas,rape_legacy,1251.0
-Kentucky,rape_legacy,997.0
-Louisiana,rape_legacy,1260.0
-Maine,rape_legacy,354.0
-Maryland,rape_legacy,1184.0
-Massachusetts,rape_legacy,1608.0
-Michigan,rape_legacy,4163.0
-Minnesota,rape_legacy,1686.0
-Mississippi,rape_legacy,862.0
-Missouri,rape_legacy,1854.0
-Montana,rape_legacy,431.0
-Nebraska,rape_legacy,652.0
-Nevada,rape_legacy,1238.0
-New Hampshire,rape_legacy,461.0
-New Jersey,rape_legacy,1019.0
-New Mexico,rape_legacy,1215.0
-North Carolina,rape_legacy,1939.0
-North Dakota,rape_legacy,276.0
-Ohio,rape_legacy,4154.0
-Oklahoma,rape_legacy,1352.0
-Oregon,rape_legacy,1164.0
-Pennsylvania,rape_legacy,3122.0
-Rhode Island,rape_legacy,338.0
-South Carolina,rape_legacy,1707.0
-South Dakota,rape_legacy,441.0
-Tennessee,rape_legacy,1966.0
-Texas,rape_legacy,8925.0
-Utah,rape_legacy,1098.0
-Vermont,rape_legacy,121.0
-Virginia,rape_legacy,1493.0
-Washington,rape_legacy,2193.0
-West Virginia,rape_legacy,420.0
-Wisconsin,rape_legacy,1224.0
-Wyoming,rape_legacy,125.0
-Alabama,rape_revised,2055.0
-Alaska,rape_revised,925.0
-Arizona,rape_revised,3174.0
-Arkansas,rape_revised,1490.0
-California,rape_revised,10324.0
-Colorado,rape_revised,2963.0
-Connecticut,rape_revised,891.0
-Delaware,rape_revised,399.0
-Florida,rape_revised,6767.0
-Georgia,rape_revised,2891.0
-Hawaii,rape_revised,508.0
-Idaho,rape_revised,674.0
-Illinois,rape_revised,5340.0
-Indiana,rape_revised,2241.0
-Iowa,rape_revised,1133.0
-Kansas,rape_revised,1295.0
-Kentucky,rape_revised,1646.0
-Louisiana,rape_revised,1763.0
-Maine,rape_revised,495.0
-Maryland,rape_revised,1679.0
-Massachusetts,rape_revised,2303.0
-Michigan,rape_revised,6785.0
-Minnesota,rape_revised,2014.0
-Mississippi,rape_revised,1024.0
-Missouri,rape_revised,2305.0
-Montana,rape_revised,467.0
-Nebraska,rape_revised,847.0
-Nevada,rape_revised,1482.0
-New Hampshire,rape_revised,778.0
-New Jersey,rape_revised,1189.0
-New Mexico,rape_revised,1565.0
-New York,rape_revised,3548.0
-North Carolina,rape_revised,2524.0
-North Dakota,rape_revised,355.0
-Ohio,rape_revised,4391.0
-Oklahoma,rape_revised,2314.0
-Oregon,rape_revised,1464.0
-Pennsylvania,rape_revised,3795.0
-Rhode Island,rape_revised,449.0
-South Carolina,rape_revised,2233.0
-South Dakota,rape_revised,507.0
-Tennessee,rape_revised,2500.0
-Texas,rape_revised,10456.0
-Utah,rape_revised,1522.0
-Vermont,rape_revised,136.0
-Virginia,rape_revised,2350.0
-Washington,rape_revised,2604.0
-West Virginia,rape_revised,700.0
-Wisconsin,rape_revised,1836.0
-Wyoming,rape_revised,204.0
-Alabama,rape_revised,2005.0
-Alaska,rape_revised,771.0
-Arizona,rape_revised,3378.0
-Arkansas,rape_revised,1763.0
-California,rape_revised,11527.0
-Colorado,rape_revised,3039.0
-Connecticut,rape_revised,782.0
-Delaware,rape_revised,386.0
-Florida,rape_revised,8563.0
-Georgia,rape_revised,3048.0
-Hawaii,rape_revised,445.0
-Idaho,rape_revised,609.0
-Illinois,rape_revised,4159.0
-Indiana,rape_revised,2186.0
-Iowa,rape_revised,1128.0
-Kansas,rape_revised,1411.0
-Kentucky,rape_revised,1440.0
-Louisiana,rape_revised,1375.0
-Maine,rape_revised,485.0
-Maryland,rape_revised,1619.0
-Massachusetts,rape_revised,2180.0
-Michigan,rape_revised,6273.0
-Minnesota,rape_revised,2001.0
-Mississippi,rape_revised,1058.0
-Missouri,rape_revised,2379.0
-Montana,rape_revised,541.0
-Nebraska,rape_revised,862.0
-Nevada,rape_revised,1357.0
-New Hampshire,rape_revised,594.0
-New Jersey,rape_revised,1274.0
-New Mexico,rape_revised,1475.0
-New York,rape_revised,5433.0
-North Carolina,rape_revised,2420.0
-North Dakota,rape_revised,358.0
-Ohio,rape_revised,5042.0
-Oklahoma,rape_revised,1777.0
-Oregon,rape_revised,1458.0
-Pennsylvania,rape_revised,3827.0
-Rhode Island,rape_revised,361.0
-South Carolina,rape_revised,2068.0
-South Dakota,rape_revised,470.0
-Tennessee,rape_revised,2531.0
-Texas,rape_revised,11393.0
-Utah,rape_revised,1454.0
-Vermont,rape_revised,110.0
-Virginia,rape_revised,2310.0
-Washington,rape_revised,2695.0
-West Virginia,rape_revised,505.0
-Wisconsin,rape_revised,1674.0
-Wyoming,rape_revised,174.0
-Alabama,rape_revised,2039.0
-Alaska,rape_revised,901.0
-Arizona,rape_revised,3108.0
-Arkansas,rape_revised,1931.0
-California,rape_revised,12811.0
-Colorado,rape_revised,3257.0
-Connecticut,rape_revised,773.0
-Delaware,rape_revised,341.0
-Florida,rape_revised,7553.0
-Georgia,rape_revised,3224.0
-Hawaii,rape_revised,561.0
-Idaho,rape_revised,694.0
-Illinois,rape_revised,4821.0
-Indiana,rape_revised,2404.0
-Iowa,rape_revised,1156.0
-Kansas,rape_revised,1615.0
-Kentucky,rape_revised,1492.0
-Louisiana,rape_revised,1723.0
-Maine,rape_revised,474.0
-Maryland,rape_revised,1666.0
-Massachusetts,rape_revised,2075.0
-Michigan,rape_revised,6450.0
-Minnesota,rape_revised,2321.0
-Mississippi,rape_revised,1203.0
-Missouri,rape_revised,2553.0
-Montana,rape_revised,547.0
-Nebraska,rape_revised,873.0
-Nevada,rape_revised,1688.0
-New Hampshire,rape_revised,627.0
-New Jersey,rape_revised,1373.0
-New Mexico,rape_revised,1672.0
-North Carolina,rape_revised,2684.0
-North Dakota,rape_revised,345.0
-Ohio,rape_revised,5149.0
-Oklahoma,rape_revised,1849.0
-Oregon,rape_revised,1593.0
-Pennsylvania,rape_revised,4305.0
-Rhode Island,rape_revised,459.0
-South Carolina,rape_revised,2297.0
-South Dakota,rape_revised,495.0
-Tennessee,rape_revised,2676.0
-Texas,rape_revised,12250.0
-Utah,rape_revised,1645.0
-Vermont,rape_revised,136.0
-Virginia,rape_revised,2340.0
-Washington,rape_revised,2705.0
-West Virginia,rape_revised,672.0
-Wisconsin,rape_revised,1780.0
-Wyoming,rape_revised,173.0
-Alabama,robbery,4645.0
-Alaska,robbery,623.0
-Arizona,robbery,6656.0
-Arkansas,robbery,2261.0
-California,robbery,53640.0
-Colorado,robbery,3136.0
-Connecticut,robbery,3551.0
-Delaware,robbery,1233.0
-Florida,robbery,23200.0
-Georgia,robbery,12704.0
-Hawaii,robbery,934.0
-Idaho,robbery,220.0
-Illinois,robbery,17733.0
-Indiana,robbery,7114.0
-Iowa,robbery,937.0
-Kansas,robbery,1339.0
-Kentucky,robbery,3247.0
-Louisiana,robbery,5539.0
-Maine,robbery,335.0
-Maryland,robbery,10048.0
-Massachusetts,robbery,6705.0
-Michigan,robbery,10093.0
-Minnesota,robbery,3674.0
-Mississippi,robbery,2413.0
-Missouri,robbery,5486.0
-Montana,robbery,217.0
-Nebraska,robbery,1035.0
-Nevada,robbery,5183.0
-New Hampshire,robbery,647.0
-New Jersey,robbery,12084.0
-New Mexico,robbery,1832.0
-New York,robbery,27241.0
-North Carolina,robbery,9275.0
-North Dakota,robbery,161.0
-Ohio,robbery,14483.0
-Oklahoma,robbery,3023.0
-Oregon,robbery,2394.0
-Pennsylvania,robbery,14739.0
-Rhode Island,robbery,683.0
-South Carolina,robbery,3965.0
-South Dakota,robbery,156.0
-Tennessee,robbery,7333.0
-Texas,robbery,31810.0
-Utah,robbery,1247.0
-Vermont,robbery,75.0
-Virginia,robbery,4574.0
-Washington,robbery,5829.0
-West Virginia,robbery,653.0
-Wisconsin,robbery,4834.0
-Wyoming,robbery,74.0
-Alabama,robbery,4701.0
-Alaska,robbery,629.0
-Arizona,robbery,6249.0
-Arkansas,robbery,2050.0
-California,robbery,48680.0
-Colorado,robbery,3039.0
-Connecticut,robbery,3159.0
-Delaware,robbery,1269.0
-Florida,robbery,24914.0
-Georgia,robbery,12417.0
-Hawaii,robbery,1107.0
-Idaho,robbery,204.0
-Illinois,robbery,15299.0
-Indiana,robbery,6897.0
-Iowa,robbery,1045.0
-Kansas,robbery,1362.0
-Kentucky,robbery,3336.0
-Louisiana,robbery,5695.0
-Maine,robbery,304.0
-Maryland,robbery,9544.0
-Massachusetts,robbery,6036.0
-Michigan,robbery,8021.0
-Minnesota,robbery,3687.0
-Mississippi,robbery,2430.0
-Missouri,robbery,5592.0
-Montana,robbery,203.0
-Nebraska,robbery,1043.0
-Nevada,robbery,5954.0
-New Hampshire,robbery,537.0
-New Jersey,robbery,10498.0
-New Mexico,robbery,2086.0
-New York,robbery,24045.0
-North Carolina,robbery,8416.0
-North Dakota,robbery,173.0
-Ohio,robbery,12753.0
-Oklahoma,robbery,3048.0
-Oregon,robbery,2093.0
-Pennsylvania,robbery,13534.0
-Rhode Island,robbery,529.0
-South Carolina,robbery,3997.0
-South Dakota,robbery,200.0
-Tennessee,robbery,7265.0
-Texas,robbery,31181.0
-Utah,robbery,1312.0
-Vermont,robbery,70.0
-Virginia,robbery,4292.0
-Washington,robbery,5640.0
-West Virginia,robbery,651.0
-Wisconsin,robbery,5066.0
-Wyoming,robbery,53.0
-Alabama,robbery,4611.0
-Alaska,robbery,761.0
-Arizona,robbery,6360.0
-Arkansas,robbery,2098.0
-California,robbery,52862.0
-Colorado,robbery,3323.0
-Connecticut,robbery,2892.0
-Delaware,robbery,1235.0
-Florida,robbery,21137.0
-Georgia,robbery,12247.0
-Hawaii,robbery,1203.0
-Idaho,robbery,192.0
-Illinois,robbery,14910.0
-Indiana,robbery,7111.0
-Iowa,robbery,1047.0
-Kansas,robbery,1818.0
-Kentucky,robbery,3307.0
-Louisiana,robbery,5550.0
-Maine,robbery,311.0
-Maryland,robbery,9863.0
-Massachusetts,robbery,5288.0
-Michigan,robbery,7796.0
-Minnesota,robbery,3771.0
-Mississippi,robbery,2294.0
-Missouri,robbery,6376.0
-Montana,robbery,210.0
-Nebraska,robbery,994.0
-Nevada,robbery,6287.0
-New Hampshire,robbery,468.0
-New Jersey,robbery,9729.0
-New Mexico,robbery,2485.0
-North Carolina,robbery,8825.0
-North Dakota,robbery,148.0
-Ohio,robbery,12554.0
-Oklahoma,robbery,3005.0
-Oregon,robbery,2146.0
-Pennsylvania,robbery,13003.0
-Rhode Island,robbery,556.0
-South Carolina,robbery,3931.0
-South Dakota,robbery,216.0
-Tennessee,robbery,7474.0
-Texas,robbery,31934.0
-Utah,robbery,1326.0
-Vermont,robbery,101.0
-Virginia,robbery,4441.0
-Washington,robbery,5449.0
-West Virginia,robbery,760.0
-Wisconsin,robbery,5232.0
-Wyoming,robbery,59.0
-Alabama,agg_assault,13788.0
-Alaska,agg_assault,3127.0
-Arizona,agg_assault,17391.0
-Arkansas,agg_assault,9796.0
-California,agg_assault,89029.0
-Colorado,agg_assault,9826.0
-Connecticut,agg_assault,4906.0
-Delaware,agg_assault,2960.0
-Florida,agg_assault,61054.0
-Georgia,agg_assault,21361.0
-Hawaii,agg_assault,2111.0
-Idaho,agg_assault,2548.0
-Illinois,agg_assault,28161.0
-Indiana,agg_assault,13915.0
-Iowa,agg_assault,6332.0
-Kansas,agg_assault,7177.0
-Kentucky,agg_assault,4215.0
-Louisiana,agg_assault,16331.0
-Maine,agg_assault,907.0
-Maryland,agg_assault,16124.0
-Massachusetts,agg_assault,18118.0
-Michigan,agg_assault,27254.0
-Minnesota,agg_assault,6908.0
-Mississippi,agg_assault,4649.0
-Missouri,agg_assault,18056.0
-Montana,agg_assault,2217.0
-Nebraska,agg_assault,3011.0
-Nevada,agg_assault,10060.0
-New Hampshire,agg_assault,1506.0
-New Jersey,agg_assault,12071.0
-New Mexico,agg_assault,9470.0
-New York,agg_assault,46130.0
-North Carolina,agg_assault,21325.0
-North Dakota,agg_assault,1447.0
-Ohio,agg_assault,14370.0
-Oklahoma,agg_assault,11652.0
-Oregon,agg_assault,5596.0
-Pennsylvania,agg_assault,23680.0
-Rhode Island,agg_assault,1547.0
-South Carolina,agg_assault,17760.0
-South Dakota,agg_assault,2052.0
-Tennessee,agg_assault,27895.0
-Texas,agg_assault,65351.0
-Utah,agg_assault,3824.0
-Vermont,agg_assault,554.0
-Virginia,agg_assault,9111.0
-Washington,agg_assault,11623.0
-West Virginia,agg_assault,4242.0
-Wisconsin,agg_assault,9285.0
-Wyoming,agg_assault,917.0
-Alabama,agg_assault,13745.0
-Alaska,agg_assault,3243.0
-Arizona,agg_assault,16970.0
-Arkansas,agg_assault,10265.0
-California,agg_assault,91803.0
-Colorado,agg_assault,10325.0
-Connecticut,agg_assault,4495.0
-Delaware,agg_assault,2867.0
-Florida,agg_assault,72895.0
-Georgia,agg_assault,22052.0
-Hawaii,agg_assault,2102.0
-Idaho,agg_assault,2623.0
-Illinois,agg_assault,27520.0
-Indiana,agg_assault,14686.0
-Iowa,agg_assault,6264.0
-Kansas,agg_assault,7259.0
-Kentucky,agg_assault,4404.0
-Louisiana,agg_assault,16387.0
-Maine,agg_assault,890.0
-Maryland,agg_assault,15133.0
-Massachusetts,agg_assault,18051.0
-Michigan,agg_assault,27519.0
-Minnesota,agg_assault,6729.0
-Mississippi,agg_assault,4592.0
-Missouri,agg_assault,18482.0
-Montana,agg_assault,2532.0
-Nebraska,agg_assault,3316.0
-Nevada,agg_assault,10564.0
-New Hampshire,agg_assault,1459.0
-New Jersey,agg_assault,11225.0
-New Mexico,agg_assault,8797.0
-New York,agg_assault,45303.0
-North Carolina,agg_assault,21421.0
-North Dakota,agg_assault,1407.0
-Ohio,agg_assault,14771.0
-Oklahoma,agg_assault,10744.0
-Oregon,agg_assault,5592.0
-Pennsylvania,agg_assault,22189.0
-Rhode Island,agg_assault,1398.0
-South Carolina,agg_assault,17676.0
-South Dakota,agg_assault,2096.0
-Tennessee,agg_assault,29681.0
-Texas,agg_assault,65656.0
-Utah,agg_assault,3513.0
-Vermont,agg_assault,432.0
-Virginia,agg_assault,9400.0
-Washington,agg_assault,11627.0
-West Virginia,agg_assault,4358.0
-Wisconsin,agg_assault,9809.0
-Wyoming,agg_assault,899.0
-Alabama,agg_assault,15954.0
-Alaska,agg_assault,3671.0
-Arizona,agg_assault,18235.0
-Arkansas,agg_assault,11316.0
-California,agg_assault,99349.0
-Colorado,agg_assault,10759.0
-Connecticut,agg_assault,4063.0
-Delaware,agg_assault,3081.0
-Florida,agg_assault,63895.0
-Georgia,agg_assault,22557.0
-Hawaii,agg_assault,2418.0
-Idaho,agg_assault,2650.0
-Illinois,agg_assault,28879.0
-Indiana,agg_assault,15765.0
-Iowa,agg_assault,6661.0
-Kansas,agg_assault,7792.0
-Kentucky,agg_assault,4668.0
-Louisiana,agg_assault,17454.0
-Maine,agg_assault,921.0
-Maryland,agg_assault,15417.0
-Massachusetts,agg_assault,19071.0
-Michigan,agg_assault,26414.0
-Minnesota,agg_assault,7094.0
-Mississippi,agg_assault,4498.0
-Missouri,agg_assault,20830.0
-Montana,agg_assault,2818.0
-Nebraska,agg_assault,3283.0
-Nevada,agg_assault,11965.0
-New Hampshire,agg_assault,1543.0
-New Jersey,agg_assault,11414.0
-New Mexico,agg_assault,9407.0
-North Carolina,agg_assault,22826.0
-North Dakota,agg_assault,1298.0
-Ohio,agg_assault,15695.0
-Oklahoma,agg_assault,11418.0
-Oregon,agg_assault,6630.0
-Pennsylvania,agg_assault,22373.0
-Rhode Island,agg_assault,1518.0
-South Carolina,agg_assault,18073.0
-South Dakota,agg_assault,2546.0
-Tennessee,agg_assault,29844.0
-Texas,agg_assault,67727.0
-Utah,agg_assault,4046.0
-Vermont,agg_assault,492.0
-Virginia,agg_assault,9235.0
-Washington,agg_assault,12029.0
-West Virginia,agg_assault,4729.0
-Wisconsin,agg_assault,10395.0
-Wyoming,agg_assault,1054.0
+Alabama,murder_manslaughter,128.98415657036347
+Alaska,murder_manslaughter,66.91596142491636
+Arizona,murder_manslaughter,86.51994833174916
+Arkansas,murder_manslaughter,110.5281566981462
+California,murder_manslaughter,129.9697035112663
+Colorado,murder_manslaughter,86.20689655172414
+Connecticut,murder_manslaughter,52.543449390842426
+Delaware,murder_manslaughter,60.31185642836129
+Florida,murder_manslaughter,96.29482861105608
+Georgia,murder_manslaughter,104.83976089830729
+Hawaii,murder_manslaughter,61.85965590566402
+Idaho,murder_manslaughter,40.17176894306691
+Illinois,murder_manslaughter,148.3978377489569
+Indiana,murder_manslaughter,125.28513774346376
+Iowa,murder_manslaughter,47.08854944297691
+Kansas,murder_manslaughter,121.74817898022893
+Kentucky,murder_manslaughter,141.66872580512313
+Louisiana,murder_manslaughter,262.84984569543474
+Maine,murder_manslaughter,115.77424023154848
+Maryland,murder_manslaughter,176.91776088458883
+Massachusetts,murder_manslaughter,129.91903596309547
+Michigan,murder_manslaughter,143.0075050338642
+Minnesota,murder_manslaughter,121.39282291555745
+Mississippi,murder_manslaughter,139.18286190751076
+Missouri,murder_manslaughter,117.14657608178037
+Montana,murder_manslaughter,73.60000000000001
+Nebraska,murder_manslaughter,111.73184357541899
+Nevada,murder_manslaughter,127.45328016263977
+New Hampshire,murder_manslaughter,80.06099885627144
+New Jersey,murder_manslaughter,181.46700804024616
+New Mexico,murder_manslaughter,181.76444510122653
+New York,murder_manslaughter,120.7983193277311
+North Carolina,murder_manslaughter,124.54271573057888
+North Dakota,murder_manslaughter,101.5228426395939
+Ohio,murder_manslaughter,92.4368122836534
+Oklahoma,murder_manslaughter,78.06339694054566
+Oregon,murder_manslaughter,56.1451557685724
+Pennsylvania,murder_manslaughter,122.27091713193653
+Rhode Island,murder_manslaughter,97.85353535353536
+South Carolina,murder_manslaughter,141.63648184266742
+South Dakota,murder_manslaughter,49.833887043189364
+Tennessee,murder_manslaughter,161.38356296367667
+Texas,murder_manslaughter,73.36993248679019
+Utah,murder_manslaughter,94.7603121516165
+Vermont,murder_manslaughter,48.12319538017324
+Virginia,murder_manslaughter,106.72002668000667
+Washington,murder_manslaughter,94.03153153153153
+West Virginia,murder_manslaughter,108.61948142957253
+Wisconsin,murder_manslaughter,72.62843648353606
+Wyoming,murder_manslaughter,74.3006993006993
+Alabama,murder_manslaughter,105.56511761331039
+Alaska,murder_manslaughter,64.8426379882967
+Arizona,murder_manslaughter,75.70723371938485
+Arkansas,murder_manslaughter,108.19672131147541
+California,murder_manslaughter,126.38547943167447
+Colorado,murder_manslaughter,73.7700913576628
+Connecticut,murder_manslaughter,51.14785297965981
+Delaware,murder_manslaughter,80.23774145616642
+Florida,murder_manslaughter,113.90560407641291
+Georgia,murder_manslaughter,110.01726132893263
+Hawaii,murder_manslaughter,48.237476808905384
+Idaho,murder_manslaughter,42.68374016273176
+Illinois,murder_manslaughter,141.88657359459796
+Indiana,murder_manslaughter,101.56033607238481
+Iowa,murder_manslaughter,67.83493499152063
+Kansas,murder_manslaughter,95.39784044449104
+Kentucky,murder_manslaughter,132.07858675912166
+Louisiana,murder_manslaughter,254.94388027792627
+Maine,murder_manslaughter,95.49795361527967
+Maryland,murder_manslaughter,171.6354744662842
+Massachusetts,murder_manslaughter,126.35206279314635
+Michigan,murder_manslaughter,123.38845453077792
+Minnesota,murder_manslaughter,91.89640768588137
+Mississippi,murder_manslaughter,197.41372714056166
+Missouri,murder_manslaughter,126.32040873899005
+Montana,murder_manslaughter,118.62776530939404
+Nebraska,murder_manslaughter,103.28997704667177
+Nevada,murder_manslaughter,133.93208855274563
+New Hampshire,murder_manslaughter,44.06904149834742
+New Jersey,murder_manslaughter,163.12984949051136
+New Mexico,murder_manslaughter,145.3655728267127
+New York,murder_manslaughter,117.83354340934264
+North Carolina,murder_manslaughter,136.55349684052695
+North Dakota,murder_manslaughter,129.7169811320755
+Ohio,murder_manslaughter,90.06036373517595
+Oklahoma,murder_manslaughter,66.055184388329
+Oregon,murder_manslaughter,55.89290643113442
+Pennsylvania,murder_manslaughter,124.86273233822752
+Rhode Island,murder_manslaughter,79.79572294924992
+South Carolina,murder_manslaughter,148.46286041626885
+South Dakota,murder_manslaughter,57.0287995437696
+Tennessee,murder_manslaughter,178.2368484266154
+Texas,murder_manslaughter,76.76000181527031
+Utah,murder_manslaughter,126.24835123421896
+Vermont,murder_manslaughter,50.53057099545225
+Virginia,murder_manslaughter,112.47920133111482
+Washington,murder_manslaughter,101.28055878928987
+West Virginia,murder_manslaughter,126.12919720470428
+Wisconsin,murder_manslaughter,73.09941520467837
+Wyoming,murder_manslaughter,67.5390460109751
+Alabama,murder_manslaughter,138.02950975725844
+Alaska,murder_manslaughter,112.44520678482942
+Arizona,murder_manslaughter,73.2158089280637
+Arkansas,murder_manslaughter,114.67308667004562
+California,murder_manslaughter,145.60106403786722
+Colorado,murder_manslaughter,88.18077057968837
+Connecticut,murder_manslaughter,73.01547678482277
+Delaware,murder_manslaughter,97.87167935373621
+Florida,murder_manslaughter,104.63889028496757
+Georgia,murder_manslaughter,118.26468212761048
+Hawaii,murder_manslaughter,35.10068353962682
+Idaho,murder_manslaughter,44.211108040895276
+Illinois,murder_manslaughter,160.89965397923876
+Indiana,murder_manslaughter,140.29940570224932
+Iowa,murder_manslaughter,81.22743682310468
+Kansas,murder_manslaughter,134.27042903598027
+Kentucky,murder_manslaughter,174.76377623547117
+Louisiana,murder_manslaughter,260.74700493305147
+Maine,murder_manslaughter,105.02283105022832
+Maryland,murder_manslaughter,246.2889599541788
+Massachusetts,murder_manslaughter,134.83619509111978
+Michigan,murder_manslaughter,133.94951674955428
+Minnesota,murder_manslaughter,138.85988724159532
+Mississippi,murder_manslaughter,185.4371017398153
+Missouri,murder_manslaughter,155.44201888837281
+Montana,murder_manslaughter,113.35012594458438
+Nebraska,murder_manslaughter,120.7870640950711
+Nevada,murder_manslaughter,134.49187759727994
+New Hampshire,murder_manslaughter,52.611800075159714
+New Jersey,murder_manslaughter,178.87060214841824
+New Mexico,murder_manslaughter,164.69594594594594
+North Carolina,murder_manslaughter,140.1539796139666
+North Dakota,murder_manslaughter,118.51015801354403
+Ohio,murder_manslaughter,95.71209800918835
+Oklahoma,murder_manslaughter,85.64840232787965
+Oregon,murder_manslaughter,67.55373592630501
+Pennsylvania,murder_manslaughter,134.7090856979077
+Rhode Island,murder_manslaughter,97.25016767270289
+South Carolina,murder_manslaughter,195.04326147528963
+South Dakota,murder_manslaughter,90.49773755656109
+Tennessee,murder_manslaughter,205.05050505050505
+Texas,murder_manslaughter,86.29960915982478
+Utah,murder_manslaughter,111.77809977230388
+Vermont,murder_manslaughter,57.142857142857146
+Virginia,murder_manslaughter,125.8626355570161
+Washington,murder_manslaughter,122.51770990593427
+West Virginia,murder_manslaughter,118.14345991561181
+Wisconsin,murder_manslaughter,104.73946059177796
+Wyoming,murder_manslaughter,66.66666666666667
+Alabama,rape_legacy,540.1677539608575
+Alaska,rape_legacy,1293.0525487108837
+Arizona,rape_legacy,571.2753771538593
+Arkansas,rape_legacy,793.9839104582022
+California,rape_legacy,555.6093167285748
+Colorado,rape_legacy,1088.9813713832739
+Connecticut,rape_legacy,373.57815116346205
+Delaware,rape_legacy,408.94380700205943
+Florida,rape_legacy,472.06261145234794
+Georgia,rape_legacy,376.5293011303328
+Hawaii,rape_legacy,707.5198144210324
+Idaho,rape_legacy,714.7804405042249
+Illinois,rape_legacy,800.5672825930569
+Indiana,rape_legacy,569.5736094051588
+Iowa,rape_legacy,1002.6415527736305
+Kansas,rape_legacy,1043.7044745057233
+Kentucky,rape_legacy,783.2962688411169
+Louisiana,rape_legacy,664.0417154410983
+Maine,rape_legacy,1765.5571635311144
+Maryland,rape_legacy,543.1928127159641
+Massachusetts,rape_legacy,1621.1636226699302
+Michigan,rape_legacy,1031.0269082921473
+Minnesota,rape_legacy,1547.2260675114471
+Mississippi,rape_legacy,465.65326149701747
+Missouri,rape_legacy,533.032794691895
+Montana,rape_legacy,1222.4
+Nebraska,rape_legacy,1239.0263367917
+Nevada,rape_legacy,852.2949409648917
+New Hampshire,rape_legacy,1990.0876858558902
+New Jersey,rape_legacy,386.7403314917127
+New Mexico,rape_legacy,1677.2572779666025
+New York,rape_legacy,483.0057022809123
+North Carolina,rape_legacy,481.4934366257801
+North Dakota,rape_legacy,1827.4111675126903
+Ohio,rape_legacy,695.0165341996867
+Oklahoma,rape_legacy,676.1551805708879
+Oregon,rape_legacy,684.6970215679561
+Pennsylvania,rape_legacy,545.9166316463549
+Rhode Island,rape_legacy,1051.1363636363637
+South Carolina,rape_legacy,807.5601374570447
+South Dakota,rape_legacy,1256.921373200443
+Tennessee,rape_legacy,917.2367280084786
+Texas,rape_legacy,489.7764791442749
+Utah,rape_legacy,1720.5499814195466
+Vermont,rape_legacy,543.7921077959577
+Virginia,rape_legacy,492.24612306153074
+Washington,rape_legacy,1166.6666666666667
+West Virginia,rape_legacy,642.9572529782761
+Wisconsin,rape_legacy,582.80978478813
+Wyoming,rape_legacy,629.3706293706294
+Alabama,rape_legacy,549.2445974373685
+Alaska,rape_legacy,877.7479044757235
+Arizona,rape_legacy,584.7731156255933
+Arkansas,rape_legacy,775.0819672131147
+California,rape_legacy,624.7117458900543
+Colorado,rape_legacy,1036.201084566906
+Connecticut,rape_legacy,339.5979540858808
+Delaware,rape_legacy,369.9851411589896
+Florida,rape_legacy,599.8631943136419
+Georgia,rape_legacy,409.5297710502855
+Hawaii,rape_legacy,582.5602968460112
+Idaho,rape_legacy,624.249699879952
+Illinois,rape_legacy,638.1788806495713
+Indiana,rape_legacy,497.03012956636815
+Iowa,rape_legacy,936.1221028829847
+Kansas,rape_legacy,1126.952510745361
+Kentucky,rape_legacy,728.9087006769028
+Louisiana,rape_legacy,530.197755211117
+Maine,rape_legacy,1637.1077762619375
+Maryland,rape_legacy,537.9478980532306
+Massachusetts,rape_legacy,1559.299320379056
+Michigan,rape_legacy,933.8314998039622
+Minnesota,rape_legacy,1516.2907268170425
+Mississippi,rape_legacy,584.5894865712755
+Missouri,rape_legacy,534.7459486568662
+Montana,rape_legacy,1378.647002244309
+Nebraska,rape_legacy,1185.9219586840093
+Nevada,rape_legacy,783.8966359410698
+New Hampshire,rape_legacy,1681.9684171869262
+New Jersey,rape_legacy,445.4519958866972
+New Mexico,rape_legacy,1541.4507772020725
+New York,rape_legacy,748.2525495588403
+North Carolina,rape_legacy,465.88840098532717
+North Dakota,rape_legacy,1627.3584905660377
+Ohio,rape_legacy,795.2097203082238
+Oklahoma,rape_legacy,482.01411693654927
+Oregon,rape_legacy,725.9177477228816
+Pennsylvania,rape_legacy,566.7629234961565
+Rhode Island,rape_legacy,807.5327162464092
+South Carolina,rape_legacy,706.5113614664884
+South Dakota,rape_legacy,1177.6447105788423
+Tennessee,rape_legacy,894.0667787653135
+Texas,rape_legacy,533.9487964109513
+Utah,rape_legacy,1780.6670435274166
+Vermont,rape_legacy,500.25265285497727
+Virginia,rape_legacy,476.53910149750413
+Washington,rape_legacy,1263.6786961583234
+West Virginia,rape_legacy,485.7678540991989
+Wisconsin,rape_legacy,517.4552542973596
+Wyoming,rape_legacy,531.8699873364288
+Alabama,rape_legacy,577.5027764556561
+Alaska,rape_legacy,1238.8031255955784
+Arizona,rape_legacy,543.5503743720974
+Arkansas,rape_legacy,823.6188545362393
+California,rape_legacy,734.4208426241051
+Colorado,rape_legacy,1190.9414299313594
+Connecticut,rape_legacy,363.20519221168246
+Delaware,rape_legacy,377.5050489358397
+Florida,rape_legacy,545.8109262702919
+Georgia,rape_legacy,441.5214799430791
+Hawaii,rape_legacy,738.9617587289858
+Idaho,rape_legacy,736.3912683061618
+Illinois,rape_legacy,767.5173010380623
+Indiana,rape_legacy,672.9105544271422
+Iowa,rape_legacy,960.0631768953069
+Kansas,rape_legacy,1312.2836462813386
+Kentucky,rape_legacy,833.6817459653817
+Louisiana,rape_legacy,683.0378923402179
+Maine,rape_legacy,1616.4383561643835
+Maryland,rape_legacy,565.1281561739296
+Massachusetts,rape_legacy,1693.8797008321922
+Michigan,rape_legacy,976.588158018204
+Minnesota,rape_legacy,1760.2839841302987
+Mississippi,rape_legacy,617.1690413116632
+Missouri,rape_legacy,574.0826753367395
+Montana,rape_legacy,1357.0528967254409
+Nebraska,rape_legacy,1270.212351451393
+Nevada,rape_legacy,935.3985644125424
+New Hampshire,rape_legacy,1732.4314167606165
+New Jersey,rape_legacy,502.11885286291516
+New Mexico,rape_legacy,1710.304054054054
+North Carolina,rape_legacy,525.6451962697896
+North Dakota,rape_legacy,1557.5620767494356
+Ohio,rape_legacy,795.1761102603369
+Oklahoma,rape_legacy,494.85743567219356
+Oregon,rape_legacy,794.2681678607984
+Pennsylvania,rape_legacy,639.151619375179
+Rhode Island,rape_legacy,1133.4674714956404
+South Carolina,rape_legacy,834.4332013491714
+South Dakota,rape_legacy,1247.1719457013576
+Tennessee,rape_legacy,992.929292929293
+Texas,rape_legacy,585.2766046743436
+Utah,rape_legacy,2272.8213620368456
+Vermont,rape_legacy,691.4285714285714
+Virginia,rape_legacy,490.6342425238252
+Washington,rape_legacy,1273.3712693067007
+West Virginia,rape_legacy,708.8607594936709
+Wisconsin,rape_legacy,534.1712490180676
+Wyoming,rape_legacy,520.8333333333334
+Alabama,rape_revised,766.0764212488351
+Alaska,rape_revised,1820.5077740602244
+Arizona,rape_revised,773.5614535351319
+Arkansas,rape_revised,1042.3224903812522
+California,rape_revised,768.5035618844863
+Colorado,rape_revised,1467.9944510503367
+Connecticut,rape_revised,514.4638835960506
+Delaware,rape_revised,586.93733451015
+Florida,rape_revised,670.3982563899347
+Georgia,rape_revised,538.35124113145
+Hawaii,rape_revised,982.0220375024163
+Idaho,rape_revised,933.6473195733481
+Illinois,rape_revised,1097.5684952623683
+Indiana,rape_revised,786.4537638182137
+Iowa,rape_revised,1301.2518663144594
+Kansas,rape_revised,1347.554630593132
+Kentucky,rape_revised,1355.736759739725
+Louisiana,rape_revised,938.0653400021284
+Maine,rape_revised,2387.8437047756875
+Maryland,rape_revised,773.5544805344391
+Massachusetts,rape_revised,2168.141592920354
+Michigan,rape_revised,1552.4894746476295
+Minnesota,rape_revised,2144.606538174848
+Mississippi,rape_revised,656.7891732409723
+Missouri,rape_revised,731.7692625162704
+Montana,rape_revised,1494.3999999999999
+Nebraska,rape_revised,1689.9441340782123
+Nevada,rape_revised,1158.8083509265775
+New Hampshire,rape_revised,2966.069386199009
+New Jersey,rape_revised,534.0699815837937
+New Mexico,rape_revised,2312.6939559627604
+New York,rape_revised,665.516206482593
+North Carolina,rape_revised,678.9326447170217
+North Dakota,rape_revised,2252.5380710659897
+Ohio,rape_revised,849.1423488232678
+Oklahoma,rape_revised,912.3166692950639
+Oregon,rape_revised,1002.3964395754878
+Pennsylvania,rape_revised,759.440475475776
+Rhode Island,rape_revised,1417.29797979798
+South Carolina,rape_revised,1036.9647998513979
+South Dakota,rape_revised,1403.654485049834
+Tennessee,rape_revised,1204.3549474901242
+Texas,rape_revised,672.9438720016476
+Utah,rape_revised,2827.9450018580455
+Vermont,rape_revised,654.4754571703561
+Virginia,rape_revised,783.7251959312989
+Washington,rape_revised,1466.2162162162163
+West Virginia,rape_revised,1226.3489838822704
+Wisconsin,rape_revised,818.0724502071915
+Wyoming,rape_revised,891.6083916083917
+Alabama,rape_revised,766.8770319372729
+Alaska,rape_revised,1219.3578997311402
+Arizona,rape_revised,801.6897664704766
+Arkansas,rape_revised,1156.0655737704917
+California,rape_revised,857.4722904113665
+Colorado,rape_revised,1484.6841565293857
+Connecticut,rape_revised,465.0886166289996
+Delaware,rape_revised,573.5512630014858
+Florida,rape_revised,848.8891973075055
+Georgia,rape_revised,578.1596767768737
+Hawaii,rape_revised,825.6029684601112
+Idaho,rape_revised,812.3249299719888
+Illinois,rape_revised,861.4689920874932
+Indiana,rape_revised,672.7602868310098
+Iowa,rape_revised,1275.296777840588
+Kansas,rape_revised,1479.1906908480973
+Kentucky,rape_revised,1188.707280832095
+Louisiana,rape_revised,734.9011223944414
+Maine,rape_revised,2205.5479763528874
+Maryland,rape_revised,761.30913194771
+Massachusetts,rape_revised,2086.7234612807506
+Michigan,rape_revised,1446.7584584515325
+Minnesota,rape_revised,2089.5989974937343
+Mississippi,rape_revised,809.5493151733109
+Missouri,rape_revised,745.697896749522
+Montana,rape_revised,1734.530298172491
+Nebraska,rape_revised,1648.814078041316
+Nevada,rape_revised,1069.0932009769163
+New Hampshire,rape_revised,2181.4175541681966
+New Jersey,rape_revised,595.4940637561933
+New Mexico,rape_revised,2122.9130685089235
+New York,rape_revised,1037.5845078492036
+North Carolina,rape_revised,647.9597301060298
+North Dakota,rape_revised,2110.8490566037735
+Ohio,rape_revised,978.6300731740455
+Oklahoma,rape_revised,670.7432151889178
+Oregon,rape_revised,1006.0723157604195
+Pennsylvania,rape_revised,778.256802375239
+Rhode Island,rape_revised,1152.2502393871687
+South Carolina,rape_revised,987.2064158869581
+South Dakota,rape_revised,1340.1767892785856
+Tennessee,rape_revised,1215.950036031708
+Texas,rape_revised,738.6205242241341
+Utah,rape_revised,2739.777652157528
+Vermont,rape_revised,555.8362809499747
+Virginia,rape_revised,768.7188019966721
+Washington,rape_revised,1568.684516880093
+West Virginia,rape_revised,860.746548491563
+Wisconsin,rape_revised,741.6267942583731
+Wyoming,rape_revised,734.4871253693541
+Alabama,rape_revised,808.7418689512931
+Alaska,rape_revised,1717.171717171717
+Arizona,rape_revised,736.4230878589707
+Arkansas,rape_revised,1223.3907754688291
+California,rape_revised,1002.3080233149474
+Colorado,rape_revised,1631.8452828298011
+Connecticut,rape_revised,482.4013979031453
+Delaware,rape_revised,529.749883486096
+Florida,rape_revised,759.2099311453989
+Georgia,rape_revised,619.9761547632783
+Hawaii,rape_revised,1036.3938666174026
+Idaho,rape_revised,958.8284056369163
+Illinois,rape_revised,1042.6038062283737
+Indiana,rape_revised,904.2353118182501
+Iowa,rape_revised,1304.1516245487364
+Kansas,rape_revised,1694.1151788524076
+Kentucky,rape_revised,1247.5959528388662
+Louisiana,rape_revised,934.0272130969805
+Maine,rape_revised,2164.3835616438355
+Maryland,rape_revised,795.1887738055464
+Massachusetts,rape_revised,2185.8211313599495
+Michigan,rape_revised,1513.089987801445
+Minnesota,rape_revised,2423.2616412612238
+Mississippi,rape_revised,861.3159590463234
+Missouri,rape_revised,790.5248490478402
+Montana,rape_revised,1722.2921914357682
+Nebraska,rape_revised,1700.7597895967272
+Nevada,rape_revised,1275.4061201360032
+New Hampshire,rape_revised,2356.2570462232243
+New Jersey,rape_revised,676.554646693604
+New Mexico,rape_revised,2353.603603603604
+North Carolina,rape_revised,727.6078941661244
+North Dakota,rape_revised,1946.9525959367945
+Ohio,rape_revised,985.6431852986218
+Oklahoma,rape_revised,676.768785915596
+Oregon,rape_revised,1087.0010235414534
+Pennsylvania,rape_revised,881.3413585554599
+Rhode Island,rape_revised,1539.2354124748492
+South Carolina,rape_revised,1122.8430366133841
+South Dakota,rape_revised,1399.8868778280544
+Tennessee,rape_revised,1351.5151515151515
+Texas,rape_revised,803.3208299451775
+Utah,rape_revised,3405.0921134340715
+Vermont,rape_revised,777.1428571428571
+Virginia,rape_revised,768.9779822543543
+Washington,rape_revised,1570.6654279410056
+West Virginia,rape_revised,1134.1772151898733
+Wisconsin,rape_revised,776.8176660556865
+Wyoming,rape_revised,720.8333333333334
+Alabama,robbery,1731.5936626281452
+Alaska,robbery,1226.1365872859674
+Arizona,robbery,1622.188101679218
+Arkansas,robbery,1581.6719132563833
+California,robbery,3992.883674882201
+Colorado,robbery,1553.7059056678556
+Connecticut,robbery,2050.3493273283675
+Delaware,robbery,1813.7687555163284
+Florida,robbery,2298.395086189816
+Georgia,robbery,2365.691514124504
+Hawaii,robbery,1805.5287067465686
+Idaho,robbery,304.7513506025765
+Illinois,robbery,3644.790660390932
+Indiana,robbery,2496.578347078435
+Iowa,robbery,1076.1456299529116
+Kansas,robbery,1393.3402705515089
+Kentucky,robbery,2674.4090272629933
+Louisiana,robbery,2947.2171969777587
+Maine,robbery,1616.0154365653643
+Maryland,robbery,4629.348076480073
+Massachusetts,robbery,6312.370551685181
+Michigan,robbery,2309.3995972908656
+Minnesota,robbery,3912.256415717176
+Mississippi,robbery,1547.6877685844397
+Missouri,robbery,1741.642591828312
+Montana,robbery,694.4
+Nebraska,robbery,2065.0438946528334
+Nevada,robbery,4052.7015403862692
+New Hampshire,robbery,2466.6412504765535
+New Jersey,robbery,5427.839913758254
+New Mexico,robbery,2707.2558002068863
+New York,robbery,5109.731392557023
+North Carolina,robbery,2494.889175812352
+North Dakota,robbery,1021.5736040609137
+Ohio,robbery,2800.758059213707
+Oklahoma,robbery,1191.8467118750987
+Oregon,robbery,1639.164669633687
+Pennsylvania,robbery,2949.510716215405
+Rhode Island,robbery,2155.934343434343
+South Carolina,robbery,1841.2742639546764
+South Dakota,robbery,431.89368770764116
+Tennessee,robbery,3532.6139319780327
+Texas,robbery,2047.278554741049
+Utah,robbery,2316.982534373839
+Vermont,robbery,360.92396535129933
+Virginia,robbery,1525.4293813573452
+Washington,robbery,3282.0945945945946
+West Virginia,robbery,1144.0084092501752
+Wisconsin,robbery,2153.900993628303
+Wyoming,robbery,323.42657342657344
+Alabama,robbery,1798.049340218015
+Alaska,robbery,994.78095840582
+Arizona,robbery,1483.0548699449403
+Arkansas,robbery,1344.262295081967
+California,robbery,3621.2155024920035
+Colorado,robbery,1484.6841565293857
+Connecticut,robbery,1878.7914832877364
+Delaware,robbery,1885.5869242199108
+Florida,robbery,2469.8383115402535
+Georgia,robbery,2355.3178171057875
+Hawaii,robbery,2053.8033395176253
+Idaho,robbery,272.10884353741494
+Illinois,robbery,3168.938232735408
+Indiana,robbery,2122.611023912843
+Iowa,robbery,1181.4584511023177
+Kansas,robbery,1427.8226229164484
+Kentucky,robbery,2753.838533927687
+Louisiana,robbery,3043.826830571887
+Maine,robbery,1382.4465666211916
+Maryland,robbery,4487.914981660867
+Massachusetts,robbery,5777.735234995693
+Michigan,robbery,1849.9042874605043
+Minnesota,robbery,3850.250626566416
+Mississippi,robbery,1859.3618486494759
+Missouri,robbery,1752.8132150581448
+Montana,robbery,650.8496312920809
+Nebraska,robbery,1995.0267788829378
+Nevada,robbery,4690.774442606161
+New Hampshire,robbery,1972.0896070510466
+New Jersey,robbery,4906.983266336356
+New Mexico,robbery,3002.3028209556705
+New York,robbery,4592.070585539132
+North Carolina,robbery,2253.400449823284
+North Dakota,robbery,1020.0471698113207
+Ohio,robbery,2475.301333436851
+Oklahoma,robbery,1150.4925829464387
+Oregon,robbery,1444.2451007452387
+Pennsylvania,robbery,2752.2674584129827
+Rhode Island,robbery,1688.4774976061285
+South Carolina,robbery,1908.05804850105
+South Dakota,robbery,570.287995437696
+Tennessee,robbery,3490.271438866202
+Texas,robbery,2021.497986994885
+Utah,robbery,2472.2065196909743
+Vermont,robbery,353.71399696816576
+Virginia,robbery,1428.2861896838604
+Washington,robbery,3282.8870779976714
+West Virginia,robbery,1109.596045679223
+Wisconsin,robbery,2244.3735601630337
+Wyoming,robbery,223.723089911355
+Alabama,robbery,1828.8910042836744
+Alaska,robbery,1450.3525824280541
+Arizona,robbery,1506.966164344612
+Arkansas,robbery,1329.1941206284846
+California,robbery,4135.821304228768
+Colorado,robbery,1664.913071797184
+Connecticut,robbery,1804.7928107838243
+Delaware,robbery,1918.59561907721
+Florida,robbery,2124.641905814947
+Georgia,robbery,2355.1017268566593
+Hawaii,robbery,2222.427489377425
+Idaho,robbery,265.26664824537164
+Illinois,robbery,3224.4809688581317
+Indiana,robbery,2674.7160159482437
+Iowa,robbery,1181.182310469314
+Kansas,robbery,1907.0596874016574
+Kentucky,robbery,2765.2813780416423
+Louisiana,robbery,3008.619287689055
+Maine,robbery,1420.0913242009133
+Maryland,robbery,4707.651186100902
+Massachusetts,robbery,5570.420309701885
+Michigan,robbery,1828.844890682181
+Minnesota,robbery,3937.147629985383
+Mississippi,robbery,1642.4429011240782
+Missouri,robbery,1974.2994271559064
+Montana,robbery,661.2090680100756
+Nebraska,robbery,1936.4893824274304
+Nevada,robbery,4750.283339629769
+New Hampshire,robbery,1758.7373167981962
+New Jersey,robbery,4794.027791465458
+New Mexico,robbery,3498.0292792792793
+North Carolina,robbery,2392.3769247451746
+North Dakota,robbery,835.214446952596
+Ohio,robbery,2403.1393568147014
+Oklahoma,robbery,1099.8865341678563
+Oregon,robbery,1464.3466393722279
+Pennsylvania,robbery,2662.039880440568
+Rhode Island,robbery,1864.5204560697518
+South Carolina,robbery,1921.5916312264749
+South Dakota,robbery,610.8597285067873
+Tennessee,robbery,3774.747474747475
+Texas,robbery,2094.142643548514
+Utah,robbery,2744.7733388532397
+Vermont,robbery,577.1428571428571
+Virginia,robbery,1459.4150509365759
+Washington,robbery,3163.976309371734
+West Virginia,robbery,1282.7004219409282
+Wisconsin,robbery,2283.3202409007595
+Wyoming,robbery,245.83333333333331
+Alabama,agg_assault,5139.981360671016
+Alaska,agg_assault,6154.300334579808
+Arizona,agg_assault,4238.50259559845
+Arkansas,agg_assault,6852.745715285065
+California,agg_assault,6627.189423771206
+Colorado,agg_assault,4868.212445501387
+Connecticut,agg_assault,2832.727062763439
+Delaware,agg_assault,4354.2218299499855
+Florida,agg_assault,6048.543689320388
+Georgia,agg_assault,3977.76577717361
+Hawaii,agg_assault,4080.8041755267736
+Idaho,agg_assault,3529.574733342568
+Illinois,agg_assault,5788.132283723512
+Indiana,agg_assault,4883.312861905598
+Iowa,agg_assault,7272.3096359251185
+Kansas,agg_assault,7468.262226847034
+Kentucky,agg_assault,3471.7074376081046
+Louisiana,agg_assault,8689.475364478025
+Maine,agg_assault,4375.3014954172695
+Maryland,agg_assault,7428.703063810182
+Massachusetts,agg_assault,17057.05140274901
+Michigan,agg_assault,6236.042467508694
+Minnesota,agg_assault,7355.979128953253
+Mississippi,agg_assault,2981.848502341094
+Missouri,agg_assault,5732.245468110099
+Montana,agg_assault,7094.4
+Nebraska,agg_assault,6007.581803671189
+Nevada,agg_assault,7866.134959731019
+New Hampshire,agg_assault,5741.517346549753
+New Jersey,agg_assault,5422.000628846067
+New Mexico,agg_assault,13994.384513078174
+New York,agg_assault,8652.836134453783
+North Carolina,agg_assault,5736.227673768023
+North Dakota,agg_assault,9181.472081218273
+Ohio,agg_assault,2778.905842083889
+Oklahoma,agg_assault,4593.91263207696
+Oregon,agg_assault,3831.5645326942827
+Pennsylvania,agg_assault,4738.7484741149865
+Rhode Island,agg_assault,4883.207070707071
+South Carolina,agg_assault,8247.42268041237
+South Dakota,agg_assault,5681.063122923588
+Tennessee,agg_assault,13438.192504094806
+Texas,agg_assault,4205.963559600198
+Utah,agg_assault,7105.165366034931
+Vermont,agg_assault,2666.025024061598
+Virginia,agg_assault,3038.5192596298148
+Washington,agg_assault,6544.481981981982
+West Virginia,agg_assault,7431.674842326559
+Wisconsin,agg_assault,4137.147440181794
+Wyoming,agg_assault,4007.867132867133
+Alabama,agg_assault,5257.219353604896
+Alaska,agg_assault,5128.894512098687
+Arizona,agg_assault,4027.434972470097
+Arkansas,agg_assault,6731.147540983607
+California,agg_assault,6829.056014282526
+Colorado,agg_assault,5044.21320044946
+Connecticut,agg_assault,2673.367431901986
+Delaware,agg_assault,4260.02971768202
+Florida,agg_assault,7226.413410922645
+Georgia,agg_assault,4182.93214969935
+Hawaii,agg_assault,3899.8144712430426
+Idaho,agg_assault,3498.732826463919
+Illinois,agg_assault,5700.318985873482
+Indiana,agg_assault,4519.742713815283
+Iowa,agg_assault,7081.967213114754
+Kansas,agg_assault,7609.8123493028625
+Kentucky,agg_assault,3635.463100544824
+Louisiana,agg_assault,8758.417958311064
+Maine,agg_assault,4047.294224647567
+Maryland,agg_assault,7116.053794789805
+Massachusetts,agg_assault,17278.644586962764
+Michigan,agg_assault,6346.779215387809
+Minnesota,agg_assault,7026.942355889725
+Mississippi,agg_assault,3513.658275307981
+Missouri,agg_assault,5793.185593831301
+Montana,agg_assault,8117.986534145559
+Nebraska,agg_assault,6342.769701606733
+Nevada,agg_assault,8322.697549830615
+New Hampshire,agg_assault,5358.060962174072
+New Jersey,agg_assault,5246.798167710574
+New Mexico,agg_assault,12661.197466896949
+New York,agg_assault,8651.884954738169
+North Carolina,agg_assault,5735.514619256721
+North Dakota,agg_assault,8295.990566037735
+Ohio,agg_assault,2866.9862774402673
+Oklahoma,agg_assault,4055.4108632468956
+Oregon,agg_assault,3858.6806513938727
+Pennsylvania,agg_assault,4512.343921584577
+Rhode Island,agg_assault,4462.176827322056
+South Carolina,agg_assault,8438.037044109222
+South Dakota,agg_assault,5976.618192187054
+Tennessee,agg_assault,14259.428296901273
+Texas,agg_assault,4256.549560121104
+Utah,agg_assault,6619.559072922555
+Vermont,agg_assault,2182.9206670035373
+Virginia,agg_assault,3128.1198003327786
+Washington,agg_assault,6767.753201396973
+West Virginia,agg_assault,7427.9870461905575
+Wisconsin,agg_assault,4345.649477228425
+Wyoming,agg_assault,3794.850147741663
+Alabama,agg_assault,6327.939076630176
+Alaska,agg_assault,6996.3788831713355
+Arizona,agg_assault,4320.68050421761
+Arkansas,agg_assault,7169.285352255449
+California,agg_assault,7772.874858193482
+Colorado,agg_assault,5390.550628789017
+Connecticut,agg_assault,2535.5716425361957
+Delaware,agg_assault,4786.391176013671
+Florida,agg_assault,6422.576267779062
+Georgia,agg_assault,4337.7177800853815
+Hawaii,agg_assault,4467.023831516719
+Idaho,agg_assault,3661.2323846366403
+Illinois,agg_assault,6245.4584775086505
+Indiana,agg_assault,5929.812683367186
+Iowa,agg_assault,7514.66606498195
+Kansas,agg_assault,8173.712367565299
+Kentucky,agg_assault,3903.3363993644953
+Louisiana,agg_assault,9461.701089608066
+Maine,agg_assault,4205.479452054795
+Maryland,agg_assault,7358.5986349100285
+Massachusetts,agg_assault,20089.539660802697
+Michigan,agg_assault,6196.396734540678
+Minnesota,agg_assault,7406.556692420129
+Mississippi,agg_assault,3220.448199326985
+Missouri,agg_assault,6449.914847499613
+Montana,agg_assault,8872.795969773299
+Nebraska,agg_assault,6395.86986167933
+Nevada,agg_assault,9040.42312051379
+New Hampshire,agg_assault,5798.571965426531
+New Jersey,agg_assault,5624.322459840348
+New Mexico,agg_assault,13241.835585585586
+North Carolina,agg_assault,6187.920190847972
+North Dakota,agg_assault,7325.0564334085775
+Ohio,agg_assault,3004.4027565084225
+Oklahoma,agg_assault,4179.202811024486
+Oregon,agg_assault,4524.053224155578
+Pennsylvania,agg_assault,4580.313638783115
+Rhode Island,agg_assault,5090.543259557344
+South Carolina,agg_assault,8834.628733440875
+South Dakota,agg_assault,7200.226244343891
+Tennessee,agg_assault,15072.727272727274
+Texas,agg_assault,4441.347742832411
+Utah,agg_assault,8375.077623680398
+Vermont,agg_assault,2811.4285714285716
+Virginia,agg_assault,3034.834045349983
+Washington,agg_assault,6984.670769945419
+West Virginia,agg_assault,7981.434599156119
+Wisconsin,agg_assault,4536.527886881382
+Wyoming,agg_assault,4391.666666666666
