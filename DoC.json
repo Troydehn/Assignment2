@@ -21,7 +21,7 @@
         "field": "Crime Type",
         "type": "nominal",
         "scale": {
-          "domain": ["vehicle_theft", "larceny", "burglary", "property_crime_total", "agg_assault", "robbery", "rape_revised", "rape_legacy", "murder_manslaughter"],
+          "domain": ["agg_assault", "robbery", "rape_revised",  "murder_manslaughter"],
           "range": ["#e7ba52", "#c7c7c7", "#aec7e8"]
         }
       }

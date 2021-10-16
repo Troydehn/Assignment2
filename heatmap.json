@@ -18,7 +18,8 @@
       "color": {
           "field": "Value",
           "type": "quantitative",
-          "scale":{"scheme": "purples"},
+          "scale":{"scheme": "inferno",
+                    "reverse": true},
           "legend": {
               "title": "Value"
           }
