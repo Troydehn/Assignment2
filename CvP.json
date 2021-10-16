@@ -8,10 +8,10 @@
   "mark": "bar",
   "encoding": {
     "x": {
-      "field": "jurisdiction", 
+      "field": "State", 
       "type": "nominal",
       "sort": "-y"
     },
-    "y": {"field": "violent_crime_total", "type": "quantitative"}
+    "y": {"field": "Violent Crime Total", "type": "quantitative"}
   }
 }
