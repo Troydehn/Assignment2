@@ -1,9 +1,10 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/division_of_crimes.csv"},
+    "title": "Division of Crime",
     "mark": "bar",
-    "width": 400,
-    "height": 125,
+    "width": 500,
+    "height": 350,
     "encoding": {
       "x": {
         "field": "jurisdiction",
@@ -22,7 +23,7 @@
         "type": "nominal",
         "scale": {
           "domain": ["agg_assault", "robbery", "rape_revised",  "murder_manslaughter"],
-          "range": ["#e7ba52", "#c7c7c7", "#aec7e8"]
+          "range": ["darkblue", "purple", "orange", "darkred"]
         }
       }
 

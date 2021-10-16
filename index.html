@@ -9,8 +9,10 @@
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
-
     <script src="vega_lite_vis.js"></script>
+    
+    <!-- Pure Css-->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
 
     <style>
         h1{
@@ -19,62 +21,88 @@
 
         h2{
             text-align: center;
+            background-color: lightsalmon;
+        }
+
+        .visualisation{
+            width: 500;
+            height: 2000;
+            background-color: white;
+        
+        }
+        
+        .analysis{
+            margin-top:0;
+        }
+
+        .right_analysis {
+            padding-left: 20;
+            padding-top: 60;
         }
     </style>
 </head>
 
 <body>
-
-    <!-- Title Grid -->
-    <div class="pure-g">
-        <div class="pure-u-1-1">
-            <h1>Crimes and Prisoners in the U.S.A</h1>
-        </div>
-    </div>
-
-
-    <!-- Chloropleth and Heatmap Grid-->
-    <div class = "pure-g">
-        <div class="pure-u-1-1">
-            <h2>Prisoner Count and Quantity of Crimes per state</h2>
-        </div>
-        <div class="pure-u-1-2">
-            <div id="map">
-            </div>
-        
-            <div id="heatmap">
+    <div class="visualisation">
+        <!-- Title Grid -->
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h1>Crimes and Prisoners in the U.S.A</h1>
             </div>
         </div>
-    </div>>
 
-    <!-- Bar Charts-->
-    <div class = "pure-g">
-        <div class="pure-u-1-1">
-            <h2>Division of Crimes and Conviction Rate</h2>
-        </div>
-        <div class="pure-u-1-2">
-            <div class="pure-u-2-1">
-                <div id="DoC">
+
+        <!-- Chloropleth and Heatmap Grid-->
+        <div class = "pure-g">
+            <div class="pure-u-1-1">
+                <h2>Prisoner Count and Quantity of Crimes per state</h2>
+            </div>
+            <div class="pure-u-1-2">
+                <div id="map">
                 </div>
-            
+            </div>
+            <div class="pure-u-1-2">
+                <div id="heatmap">
+                </div>
+            </div>
+        </div>
+
+        <!-- Bar Charts-->
+        <div class = "pure-g">
+            <div class="pure-u-1-1">
+                <h2>Division of Crimes and Conviction Rate</h2>
+            </div>
+                <div class="pure-u-1-2">
+                    <div id="DoC">
+                    </div>
+                </div>
+                <div class="pure-u-1-2">
+                    <div class="analysis right_analysis">
+                        <p>Enter analysis here</p>
+                    </div>
+                </div>
+
+                
+            <div class="pure-u-1-2">
                 <div id="CvP">
                 </div>
             </div>
-            <div class="pure-u-1-1"><p>penis</p></div>>
-        </div>
-    </div>
+                
 
-    <!-- Scatter Plot-->
-    <div class = "pure-g">
-        <div class="pure-u-1-1">
-            <h2>Crimes and Prisoners</h2>
+
         </div>
-        <div class="pure-u-1-2">
-            <div id="scatterplot">
+
+        <!-- Scatter Plot-->
+        <div class = "pure-g">
+            <div class="pure-u-1-1">
+                <h2>Crimes and Prisoners</h2>
             </div>
-        </div>
-    </div>>
-
+            <div class="pure-u-1-2">
+                <div id="scatterplot">
+                </div>
+            </div>
+        </div>>
+    </div>
 
 </body>
 

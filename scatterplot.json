@@ -1,6 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "A scatterplot showing body mass and flipper lengths of penguins.",
+    "title": "Top 10 U.S.A states (Violent Crimes)",
+    "width": 500,
+    "height": 350,
     "data": {
       "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/crime_and_prisoners.csv"
     },

@@ -3,7 +3,7 @@
   "data": {
       "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/division_of_crimes.csv"
   },
-  "width": 400,
+  "width": 500,
   "height": 250,
   "mark": "rect",
   "encoding": {

@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A bar chart showing the US population distribution of age groups and gender in 2000.",
   "data": {"url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/crime_vs_population.csv"},
-  "width": 400,
-  "height": 125,
+  "title": "Crime Vs Population",
+  "width": 500,
+  "height": 350,
   "mark": "bar",
   "encoding": {
     "x": {"field": "jurisdiction", "type": "nominal"},
@@ -15,5 +15,19 @@
     },
     "color": {"field": "Value Type", "scale": {"range": ["#675193", "#ca8861"]}},
     "opacity": {"value": 0.7}
+  }
+}
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 350,
+  "data": {
+    "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/crime_vs_population.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "jurisdiction", "type": "nominal"},
+    "y": {"field": "violent_crime_total", "type": "quantitative"}
   }
 }
