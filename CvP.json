@@ -3,7 +3,7 @@
   "width": 520,
   "height": 350,
   "data": {
-    "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/crime_vs_population.csv"
+    "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/crime_rate.csv"
   },
   "mark": "bar",
   "encoding": {
@@ -12,6 +12,6 @@
       "type": "nominal",
       "sort": "-y"
     },
-    "y": {"field": "Violent Crime Total", "type": "quantitative"}
+    "y": {"field": "Violent crimes per 10,000 People", "type": "quantitative"}
   }
 }
