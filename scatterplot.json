@@ -24,6 +24,11 @@
         "field": "Violent Crime Total",
         "type": "quantitative"
       },
-      "color": {"field": "State", "type": "nominal"}
+      "color": {"field": "State", "type": "nominal"},
+      "tooltip": [
+        {"field": "State", "type": "nominal"},
+        {"field": "Prisoners", "type": "quantitative"},
+        {"field": "Violent Crime Total", "type": "quantitative"}
+    ] 
     }
   }
