@@ -10,7 +10,7 @@
         "field": "State",
         "title": "State",
         "type": "nominal",
-        "sort": "-y"
+        "sort": "y"
       },
       "y": {
         "field": "Value",

@@ -8,6 +8,13 @@
       "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/crime_and_prisoners.csv"
     },
     "mark": "circle",
+    "config": {
+      "style": {
+        "circle": {
+          "size": "350"
+        }
+      }
+    },
     "encoding": {
       "x": {
         "field": "Prisoners",

@@ -10,7 +10,7 @@
     "x": {
       "field": "State", 
       "type": "nominal",
-      "sort": "-y"
+      "sort": "y"
     },
     "y": {"field": "Violent crimes per 10,000 People", "type": "quantitative"}
   }
