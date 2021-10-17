@@ -1,0 +1,201 @@
+State,Crime Type,Value
+Alabama,Murder Manslaughter,407.0
+Alaska,Murder Manslaughter,52.0
+Arizona,Murder Manslaughter,389.0
+Arkansas,Murder Manslaughter,217.0
+California,Murder Manslaughter,1930.0
+Colorado,Murder Manslaughter,189.0
+Connecticut,Murder Manslaughter,79.0
+Delaware,Murder Manslaughter,58.0
+Florida,Murder Manslaughter,1111.0
+Georgia,Murder Manslaughter,682.0
+Hawaii,Murder Manslaughter,35.0
+Idaho,Murder Manslaughter,49.0
+Illinois,Murder Manslaughter,1061.0
+Indiana,Murder Manslaughter,431.0
+Iowa,Murder Manslaughter,73.0
+Kansas,Murder Manslaughter,132.0
+Kentucky,Murder Manslaughter,265.0
+Louisiana,Murder Manslaughter,555.0
+Maine,Murder Manslaughter,20.0
+Maryland,Murder Manslaughter,536.0
+Massachusetts,Murder Manslaughter,135.0
+Michigan,Murder Manslaughter,612.0
+Minnesota,Murder Manslaughter,101.0
+Mississippi,Murder Manslaughter,237.0
+Missouri,Murder Manslaughter,538.0
+Montana,Murder Manslaughter,37.0
+Nebraska,Murder Manslaughter,49.0
+Nevada,Murder Manslaughter,228.0
+New Hampshire,Murder Manslaughter,19.0
+New Jersey,Murder Manslaughter,378.0
+New Mexico,Murder Manslaughter,139.0
+New York,Murder Manslaughter,629.0
+North Carolina,Murder Manslaughter,678.0
+North Dakota,Murder Manslaughter,16.0
+Ohio,Murder Manslaughter,683.0
+Oklahoma,Murder Manslaughter,247.0
+Oregon,Murder Manslaughter,116.0
+Pennsylvania,Murder Manslaughter,674.0
+Rhode Island,Murder Manslaughter,29.0
+South Carolina,Murder Manslaughter,358.0
+South Dakota,Murder Manslaughter,28.0
+Tennessee,Murder Manslaughter,495.0
+Texas,Murder Manslaughter,1478.0
+Utah,Murder Manslaughter,74.0
+Vermont,Murder Manslaughter,14.0
+Virginia,Murder Manslaughter,482.0
+Washington,Murder Manslaughter,195.0
+West Virginia,Murder Manslaughter,85.0
+Wisconsin,Murder Manslaughter,232.0
+Wyoming,Murder Manslaughter,20.0
+Alabama,Rape,1915.0
+Alaska,Rape,1053.0
+Arizona,Rape,3304.0
+Arkansas,Rape,2214.0
+California,Rape,13702.0
+Colorado,Rape,3635.0
+Connecticut,Rape,791.0
+Delaware,Rape,311.0
+Florida,Rape,7598.0
+Georgia,Rape,3381.0
+Hawaii,Rape,601.0
+Idaho,Rape,719.0
+Illinois,Rape,5003.0
+Indiana,Rape,2449.0
+Iowa,Rape,1278.0
+Kansas,Rape,1618.0
+Kentucky,Rape,1748.0
+Louisiana,Rape,1819.0
+Maine,Rape,413.0
+Maryland,Rape,1827.0
+Massachusetts,Rape,2141.0
+Michigan,Rape,7268.0
+Minnesota,Rape,2349.0
+Mississippi,Rape,1282.0
+Missouri,Rape,2557.0
+Montana,Rape,598.0
+Nebraska,Rape,1108.0
+Nevada,Rape,1729.0
+New Hampshire,Rape,609.0
+New Jersey,Rape,1454.0
+New Mexico,Rape,1527.0
+New York,Rape,6281.0
+North Carolina,Rape,2847.0
+North Dakota,Rape,356.0
+Ohio,Rape,5754.0
+Oklahoma,Rape,2100.0
+Oregon,Rape,1784.0
+Pennsylvania,Rape,4459.0
+Rhode Island,Rape,445.0
+South Carolina,Rape,2491.0
+South Dakota,Rape,526.0
+Tennessee,Rape,2803.0
+Texas,Rape,13446.0
+Utah,Rape,1560.0
+Vermont,Rape,170.0
+Virginia,Rape,2830.0
+Washington,Rape,3133.0
+West Virginia,Rape,684.0
+Wisconsin,Rape,2005.0
+Wyoming,Rape,206.0
+Alabama,Robbery,4687.0
+Alaska,Robbery,850.0
+Arizona,Robbery,7045.0
+Arkansas,Robbery,2125.0
+California,Robbery,54789.0
+Colorado,Robbery,3525.0
+Connecticut,Robbery,2711.0
+Delaware,Robbery,1359.0
+Florida,Robbery,20175.0
+Georgia,Robbery,12114.0
+Hawaii,Robbery,985.0
+Idaho,Robbery,213.0
+Illinois,Robbery,17829.0
+Indiana,Robbery,7291.0
+Iowa,Robbery,1150.0
+Kansas,Robbery,1757.0
+Kentucky,Robbery,3371.0
+Louisiana,Robbery,5575.0
+Maine,Robbery,268.0
+Maryland,Robbery,10815.0
+Massachusetts,Robbery,5365.0
+Michigan,Robbery,7123.0
+Minnesota,Robbery,3730.0
+Mississippi,Robbery,2433.0
+Missouri,Robbery,6576.0
+Montana,Robbery,268.0
+Nebraska,Robbery,946.0
+Nevada,Robbery,6338.0
+New Hampshire,Robbery,431.0
+New Jersey,Robbery,8940.0
+New Mexico,Robbery,2737.0
+New York,Robbery,22310.0
+North Carolina,Robbery,9336.0
+North Dakota,Robbery,181.0
+Ohio,Robbery,12574.0
+Oklahoma,Robbery,3174.0
+Oregon,Robbery,2307.0
+Pennsylvania,Robbery,12314.0
+Rhode Island,Robbery,541.0
+South Carolina,Robbery,4071.0
+South Dakota,Robbery,274.0
+Tennessee,Robbery,7829.0
+Texas,Robbery,33298.0
+Utah,Robbery,1528.0
+Vermont,Robbery,78.0
+Virginia,Robbery,4826.0
+Washington,Robbery,5649.0
+West Virginia,Robbery,720.0
+Wisconsin,Robbery,4707.0
+Wyoming,Robbery,59.0
+Alabama,Aggravated Assault,18869.0
+Alaska,Aggravated Assault,4011.0
+Arizona,Aggravated Assault,21804.0
+Arkansas,Aggravated Assault,12007.0
+California,Aggravated Assault,104375.0
+Colorado,Aggravated Assault,11681.0
+Connecticut,Aggravated Assault,4588.0
+Delaware,Aggravated Assault,3131.0
+Florida,Aggravated Assault,59816.0
+Georgia,Aggravated Assault,24091.0
+Hawaii,Aggravated Assault,1831.0
+Idaho,Aggravated Assault,2895.0
+Illinois,Aggravated Assault,32161.0
+Indiana,Aggravated Assault,16345.0
+Iowa,Aggravated Assault,6669.0
+Kansas,Aggravated Assault,8158.0
+Kentucky,Aggravated Assault,5068.0
+Louisiana,Aggravated Assault,18528.0
+Maine,Aggravated Assault,948.0
+Maryland,Aggravated Assault,15841.0
+Massachusetts,Aggravated Assault,18334.0
+Michigan,Aggravated Assault,30779.0
+Minnesota,Aggravated Assault,7185.0
+Mississippi,Aggravated Assault,4459.0
+Missouri,Aggravated Assault,22049.0
+Montana,Aggravated Assault,2983.0
+Nebraska,Aggravated Assault,3558.0
+Nevada,Aggravated Assault,11629.0
+New Hampshire,Aggravated Assault,1609.0
+New Jersey,Aggravated Assault,11089.0
+New Mexico,Aggravated Assault,10182.0
+New York,Aggravated Assault,45095.0
+North Carolina,Aggravated Assault,24906.0
+North Dakota,Aggravated Assault,1352.0
+Ohio,Aggravated Assault,16748.0
+Oklahoma,Aggravated Assault,12334.0
+Oregon,Aggravated Assault,6776.0
+Pennsylvania,Aggravated Assault,22942.0
+Rhode Island,Aggravated Assault,1514.0
+South Carolina,Aggravated Assault,18217.0
+South Dakota,Aggravated Assault,2808.0
+Tennessee,Aggravated Assault,31332.0
+Texas,Aggravated Assault,72842.0
+Utah,Aggravated Assault,4244.0
+Vermont,Aggravated Assault,589.0
+Virginia,Aggravated Assault,10357.0
+Washington,Aggravated Assault,13124.0
+West Virginia,Aggravated Assault,5144.0
+Wisconsin,Aggravated Assault,10772.0
+Wyoming,Aggravated Assault,1146.0
