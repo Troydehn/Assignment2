@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/division_of_crimes.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/division_of_crime_total.csv"},
     "title": "Division of Crime",
     "mark": "bar",
     "width": 500,

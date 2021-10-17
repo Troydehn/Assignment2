@@ -14,14 +14,25 @@
     <!-- Pure Css-->
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
 
+    <!-- Google's Font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+
     <style>
         h1{
             text-align: center;
+            font-family: 'Roboto', sans-serif;
         }
 
         h2{
             text-align: center;
             background-color: lightsalmon;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        p{
+            font-family: 'Roboto', sans-serif;
         }
 
         .visualisation{
@@ -30,71 +41,120 @@
             background-color: white;
         
         }
+        
+        .page{
+            width: 200;
+            height: 2000;
+        }
+    
     </style>
 </head>
 
 <body>
-    <div class="visualisation">
-        <!-- Title Grid -->
-        <div class="pure-g">
-            <div class="pure-u-1-1">
-                <h1>Crimes and Prisoners in the U.S.A</h1>
-            </div>
-        </div>
-
-
-        <!-- Chloropleth and Heatmap Grid-->
-        <div class = "pure-g">
-            <div class="pure-u-1-1">
-                <h2>Prisoner Count and Quantity of Crimes per state</h2>
-            </div>
-            <div class="pure-u-1-2">
-                <div id="map">
+    <div class="page">
+        <div class="visualisation">
+            <!-- Title Grid -->
+            <div class="pure-g">
+                <div class="pure-u-1-1">
+                    <h1>Crimes and Prisoners in the U.S.A</h1>
                 </div>
             </div>
-            <div class="pure-u-1-2">
-                <div id="heatmap">
-                </div>
-            </div>
-        </div>
 
-        <!-- Bar Charts-->
-        <div class = "pure-g">
-            <div class="pure-u-1-1">
-                <h2>Division of Crimes and Conviction Rate</h2>
-            </div>
+
+            <!-- Chloropleth and Heatmap Grid-->
+            <div class = "pure-g">
+                <div class="pure-u-1-1">
+                    <h2>Prisoner Count and Quantity of Crimes per state</h2>
+                </div>
+                <div class="pure-u-1-1">
+                    <p>
+                        Below are a choropleth map, and a heat map with the choropleth map showing the number of prisoners in holding around each state of America,
+                        and the heat map showing the quantities of each crime type occuring in each state in 2016. As shown in the heatmap <span style = "font-weight:bold; color:rgb(146, 99, 11)">Oklahoma</span>
+                        has the highest average number of convicts in 2016 with <span style = "font-weight:bold; color:rgb(146, 99, 11)">67 convicts per 10,000 people</span>. In the heatmap, it is evident that 
+                        <span style = "font-weight:bold; color:darkblue">Aggravated Assault</span> is the most common form of violent crime to occur in the U.S.A, whereas
+                        <span style = "font-weight:bold; color:darkred">Murder Manslaughter</span> is the least common.
+                    </p>
+                </div>
                 <div class="pure-u-1-2">
-                    <div id="DoC">
+                    <div id="map">
                     </div>
                 </div>
                 <div class="pure-u-1-2">
-                    <div>
-                        <p>Enter analysis here</p>
+                    <div id="heatmap">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bar Charts-->
+            <div class = "pure-g">
+                <div class="pure-u-1-1">
+                    <h2>Division of Crimes and Conviction Rate</h2>
+                </div>
+                    <div class="pure-u-1-2">
+                        <div id="DoC">
+                        </div>
+                    </div>
+                    <div class="pure-u-1-3">
+                        <div>
+                            <p class = "analysis_right">
+                                Displayed on the left are two bar charts, the <span style = "font-weight:bold;">Division of Crimes</span> stacked bar chart, 
+                                and the <span style = "font-weight:bold;">Violent Crimes vs Population</span> bar chart. The divison of crimes chart displays the 
+                                total number of violent crimes occuring in each state around the U.S.A in 2016. As well as the split
+                                of how each different crime type contributes to the total.
+                            </p>
+                                From the <span style = "font-weight:bold;">Division of Crimes</span> chart, it the most prevalent crime type is <span style = "font-weight:bold; color:darkblue;">Aggravated Assault</span>,
+                                followed by <span style = "font-weight:bold; color:purple;">Robbery</span>, <span style = "font-weight:bold; color:orange">Rape</span> and <span style = "font-weight:bold; color: darkred">Murder Manslaughter</span>
+                                respectively. This statistic is led by <span style = "font-weight:bold; color:#a7cef1;">California</span> with a total of 
+                                <span style = "font-weight:bold; color:#a7cef1">174,769 violent crimes </span>occuring throughout 2016.
+                        </div>
+                    </div>
+
+                    
+                <div class="pure-u-1-2">
+                    <div id="CvP">
+                    </div>
+                </div>
+                    
+                <div class="pure-u-1-3">
+                    <p>
+                        In the <span style = "font-weight:bold;">Violent Crimes vs Population</span> bar chart, the average amount of crimes occuring per 
+                        10,000 people is shown. <span style = "font-weight:bold; color:darkcyan">Alaska</span> has the highest overall crimes occuring out of all other states with overall
+                        <span style = "font-weight:bold; color:darkcyan">80</span> violent crimes per 10,000 people in 2016. This is closely followed by <span style = "font-weight:bold; color:green">New Mexico</span>,
+                        <span style = "font-weight:bold; color:rgb(158, 158, 2)">Nevada</span> and <span style = "font-weight:bold; color: brown">Tennessee</span> with <span style = "font-weight:bold; color:green">70</span>, 
+                        <span style = "font-weight:bold; color:rgb(158, 158, 2)">68</span> and <span style = "font-weight:bold; color:brown">64</span> violent crimes occuring per 10,000 people respectively.
+                        
+                    </p>
+                </div>
+
+
+            </div>
+
+            <!-- Scatter Plot-->
+            <div class = "pure-g">
+                <div class="pure-u-1-1">
+                    <h2>Crimes and Prisoners</h2>
+                </div>
+                <div class="pure-u-1-2">
+                    <div id="scatterplot">
                     </div>
                 </div>
 
-                
-            <div class="pure-u-1-2">
-                <div id="CvP">
+                <div class="pure-u-1-3">
+                    <p>
+                        Displayed on the left is scatter plot, depicting the states with the top 10 violent crime totals in the U.S.A in 2016. The visualisation
+                        highlights the relationship that exists between the the number of violent crimes commited, and the number of prisoners in holding in each state.
+                    </p>
+                    <p>
+                        As shown, <span style = "font-weight:bold; color:rgb(103, 151, 167)">California</span> has the highest number of violent crimes commited at
+                        a total of <span style = "font-weight:bold; color:rgb(103, 151, 167)">174,796</span>. <span style = "font-weight:bold; color:grey">Texas</span> has
+                        the highest total number of prisoners in holding at <span style = "font-weight:bold; color:gray">151,276</span> prisoners. <span style = "font-weight:bold; color:orange">Florida</span>
+                        is also worth taking note of, as it is not in the same cluster as the other states, with <span style = "font-weight:bold; color:orange">88,700</span> violent crimes comitted and 
+                        <span style = "font-weight:bold; color:orange">98,010</span> prisoners in holding.
+                    </p>
                 </div>
-            </div>
-                
-
-
+            </div>>
         </div>
-
-        <!-- Scatter Plot-->
-        <div class = "pure-g">
-            <div class="pure-u-1-1">
-                <h2>Crimes and Prisoners</h2>
-            </div>
-            <div class="pure-u-1-2">
-                <div id="scatterplot">
-                </div>
-            </div>
-        </div>>
     </div>
-
 </body>
 
 </html>
