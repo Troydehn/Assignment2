@@ -5,6 +5,7 @@
   },
   "width": 500,
   "height": 250,
+  "title": "Quantity of Crime Types",
   "mark": "rect",
   "encoding": {
       "y": {
