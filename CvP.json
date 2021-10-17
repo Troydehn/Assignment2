@@ -6,12 +6,18 @@
     "url": "https://raw.githubusercontent.com/Troydehn/Assignment2/master/Processing/crime_rate.csv"
   },
   "mark": "bar",
+  "title": "Violent Crimes Vs Population",
   "encoding": {
     "x": {
       "field": "State", 
       "type": "nominal",
       "sort": "y"
     },
-    "y": {"field": "Violent crimes per 10,000 People", "type": "quantitative"}
+    "y": {"field": "Violent crimes per 10,000 People", "type": "quantitative"},
+    "tooltip": [
+      {"field": "State", "type": "nominal", "title": "State"},
+      {"field": "Violent crimes per 10,000 People", "type": "quantitative"}
+  ] 
   }
+
 }

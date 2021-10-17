@@ -14,7 +14,8 @@
       },
       "y": {
         "field": "Value",
-        "type": "quantitative"
+        "type": "quantitative",
+        "title": "Crimes per 10,000 people"
       },
       "fillOpacity": {
         "value": 1
@@ -26,7 +27,12 @@
           "domain": ["Aggravated Assault", "Robbery", "Rape",  "Murder Manslaughter"],
           "range": ["darkblue", "purple", "orange", "darkred"]
         }
-      }
+      },
+      "tooltip": [
+        {"field": "State", "type": "nominal", "title": "State"},
+        {"field": "Crime Type", "type": "nominal", "title": "Crime Type"},
+        {"field": "Value", "type": "quantitative", "title": "Crimes per 10,000 people"}
+    ]
 
       
     }

@@ -33,12 +33,13 @@
         "color": {
             "field": "conviction_rate_10000",
             "type": "quantitative",
+            "title": "Convictions per 10,000 people",
             "scale": {"scheme": "darkred",
                       "reverse": true}
         },
         "tooltip": [
-            {"field": "properties.name", "type": "nominal", "title": "jurisdiction"},
-            {"field": "conviction_rate_10000", "type": "quantitative"}
+            {"field": "properties.name", "type": "nominal", "title": "State"},
+            {"field": "conviction_rate_10000", "type": "quantitative", "title": "Convictions per 10,000 people"}
         ]
     }   
 }
