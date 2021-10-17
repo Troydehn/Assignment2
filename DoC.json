@@ -24,8 +24,8 @@
         "field": "Crime Type",
         "type": "nominal",
         "scale": {
-          "domain": ["Aggravated Assault", "Robbery", "Rape",  "Murder Manslaughter"],
-          "range": ["darkblue", "purple", "orange", "darkred"]
+          "domain": ["Aggravated Assault", "Robbery", "Rape",  "Murder Manslaughter", "Burglary", "Larceny", "Vehicle Theft"],
+          "range": ["darkblue", "purple", "orange", "darkred", "lightblue", "brown", "#CCBE9F"]
         }
       },
       "tooltip": [
